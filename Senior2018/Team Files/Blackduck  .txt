@@ -1,0 +1,19 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Blackduck                      Team Base Count: 37            Team Score: 370307 |  25   |
+-----------------------------------------------------------------------------------------|
+Blackduck                      MASON           SMID                 13    130102 | 145   |
+Blackduck                      ANGEL           REIGEL               13    130002 | 146   |
+Blackduck                      KIRSTEN         THEISEN              11    110203 | 191   |
+Blackduck                      SAMANTHA        CHRISTENSEN          11    110104 | 198   |
+Blackduck                      JADA            LANDIS               10    100404 | 201   |
+Blackduck                      CAROLINE        CHENEY               10    100401 | 204   |
+Blackduck                      HALEY           MURRAY               10    100201 | 217   |
+Blackduck                      CONNER          PORATH               10    100201 | 218   |
+Blackduck                      ZOEY            MILLS                10    100103 | 226   |
+Blackduck                      THOMAS          KELLUM               10    100101 | 229   |
+Blackduck                      JONAH           GUSTAFSON            10    100101 | 230   |
+Blackduck                      TRISTAN         ROSSMAN              9     90201  | 247   |
+Blackduck                      DYLAN           MOEN                 9     90201  | 243   |
+Blackduck                      LOGAN           SUTTON               9     90201  | 241   |
+Blackduck                      KENNEDI         LEINO                7     70402  | 269   |

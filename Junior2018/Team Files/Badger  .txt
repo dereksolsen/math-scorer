@@ -1,0 +1,29 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Badger                         Team Base Count: 51            Team Score: 511111 |  13   |
+-----------------------------------------------------------------------------------------|
+Badger                         JACK            BURKEL               17    170503 |  54   |
+Badger                         HANNAH          WILT                 17    170403 |  61   |
+Badger                         TALON           HILLIGAS             17    170205 |  67   |
+Badger                         FOSS            DILLON               14    140503 | 120   |
+Badger                         JORDAN          SCHARF               13    130404 | 155   |
+Badger                         AVDYL           JASIQI               13    130402 | 158   |
+Badger                         BROOKE          VONENDE              13    130304 | 160   |
+Badger                         TANNER          DAVY                 13    130202 | 177   |
+Badger                         HAILEY          BONEND               13    130103 | 179   |
+Badger                         CADEN           OLDS                 12    120204 | 208   |
+Badger                         KADEYN          KELLER               12    120203 | 214   |
+Badger                         HANNAH          RUDAH                12    120104 | 217   |
+Badger                         SALMA           PRAY                 11    110303 | 223   |
+Badger                         JENESSA         ISANE                11    110303 | 226   |
+Badger                         BAILEY          MAURSTAD             11    110204 | 232   |
+Badger                         GRETA           LEE                  11    110203 | 233   |
+Badger                         TIA             MCKINNON             11    110104 | 244   |
+Badger                         MAISY           YLITALO              11    110103 | 246   |
+Badger                         JASMINE         CHRISTIANSON         10    100103 | 264   |
+Badger                         JASMYN          RUD                  9     90002  | 295   |
+Badger                         LIESL           AARHUS               8     80302  | 297   |
+Badger                         CORALIE         OLDS                 8     80206  | 300   |
+Badger                         KIAH            OLAFSON              8     80201  | 304   |
+Badger                         AULONA          JASIQI               7     70300  | 314   |
+Badger                         ARIKA           PICKHARTZ            5     50201  | 330   |

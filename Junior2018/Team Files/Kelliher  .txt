@@ -1,0 +1,25 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Kelliher                       Team Base Count: 51            Team Score: 510914 |  14   |
+-----------------------------------------------------------------------------------------|
+Kelliher                       ASHLYN          MARTIN               18    180205 |  49   |
+Kelliher                       RILEY           DREHER               17    170403 |  60   |
+Kelliher                       ROLAND          ICEMAN               16    160306 |  80   |
+Kelliher                       MONICA          JOHNSON              15    150403 | 103   |
+Kelliher                       KARLEA          JOHNSON              14    140304 | 134   |
+Kelliher                       KELCI           PERKINS              14    140204 | 145   |
+Kelliher                       RILEIGH         HUGHES               13    130303 | 162   |
+Kelliher                       BODEN           LEMPART              13    130302 | 168   |
+Kelliher                       CODY            UFFORD               12    120501 | 187   |
+Kelliher                       HAILEY          BRAMBRINK            12    120403 | 189   |
+Kelliher                       AMELIA          PERSONS              12    120401 | 194   |
+Kelliher                       DONNA           THAYER               11    110205 | 231   |
+Kelliher                       ELLA            RAINCLOUD            11    110202 | 237   |
+Kelliher                       LYNELLE         CHARNOSKI            11    110106 | 242   |
+Kelliher                       BRAXTON         LEMPART              11    110101 | 249   |
+Kelliher                       MYAH            LOSSING              10    100204 | 256   |
+Kelliher                       TIMOTHY         BARTHEL              10    100202 | 258   |
+Kelliher                       TAYLEE          KINGBIRD             9     90203  | 281   |
+Kelliher                       DANIELLE        RAINCLOUD            7     70100  | 324   |
+Kelliher                       BRADY           JOHNSON              7     70001  | 326   |
+Kelliher                       KYLIE           ADAMS                3     30002  | 333   |

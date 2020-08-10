@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Indus                          Team Base Count: 41            Team Score: 411008 |  23   |
+-----------------------------------------------------------------------------------------|
+Indus                          ULRIC           PICKAR               17    170304 |  65   |
+Indus                          BRIAN           PEARSON              13    130403 | 156   |
+Indus                          CHASE           STEINBACH            11    110301 | 229   |
+Indus                          IRISH           MALAPITAN            11    110103 | 245   |

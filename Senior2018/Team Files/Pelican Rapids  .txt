@@ -1,0 +1,13 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Pelican Rapids                 Team Base Count: 60            Team Score: 601213 |   5   |
+-----------------------------------------------------------------------------------------|
+Pelican Rapids                 GAVIN           HAUGRUD              21    210505 |  14   |
+Pelican Rapids                 TIMOTHY         BRYNILDSON           20    200306 |  23   |
+Pelican Rapids                 HAYDEN          CHRISTENSON          19    190402 |  30   |
+Pelican Rapids                 ANNA            KUNZ                 16    160304 |  67   |
+Pelican Rapids                 ALYCE           ERDMAN               16    160102 |  80   |
+Pelican Rapids                 MADELINE        GULER                15    150203 |  94   |
+Pelican Rapids                 COLM            FITZSIMMONS          13    130201 | 138   |
+Pelican Rapids                 MACKENZIE       THORNTON             10    100102 | 228   |
+Pelican Rapids                 LOGAN           PETZNICK             9     90300  | 237   |

@@ -1,0 +1,20 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Roseau                         Team Base Count: 44            Team Score: 440811 |  22   |
+-----------------------------------------------------------------------------------------|
+Roseau                         AUTUMN          GROSS                17    170305 |  63   |
+Roseau                         DEVIN           COSSENTINE           14    140303 | 136   |
+Roseau                         DALLAS          BUCHWITZ             13    130203 | 175   |
+Roseau                         RYAN            ERICKSON             12    120403 | 188   |
+Roseau                         BRIANNA         BUCKTA               12    120403 | 190   |
+Roseau                         ALAA            GUSTAFSON            12    120204 | 207   |
+Roseau                         JENNY           LARSON               12    120203 | 213   |
+Roseau                         GABRIELA        VEGA                 11    110303 | 222   |
+Roseau                         JAYDEN          LOCKLEAR             11    110104 | 243   |
+Roseau                         NATALIA         JOHNSON              10    100501 | 250   |
+Roseau                         KARA            HANN                 9     90302  | 272   |
+Roseau                         JERRY           STROOT               9     90203  | 280   |
+Roseau                         JESSICA         BUCHHOLZ             9     90202  | 285   |
+Roseau                         ABIGAIL         HOUGH                9     90201  | 288   |
+Roseau                         MYKAYLA         JOHNSON              7     70302  | 312   |
+Roseau                         CLANCY          HEATH                7     70103  | 320   |

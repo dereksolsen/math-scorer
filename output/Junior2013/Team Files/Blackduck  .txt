@@ -1,0 +1,20 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Blackduck                      Team Base Count: 65            Team Score: 651321 |  11   |
+-----------------------------------------------------------------------------------------|
+Blackduck                      JONAH           GUSTAFSON            23    230507 |  39   |
+Blackduck                      KORAPAT         PHATTANAPHAKDEE      21    210506 |  61   |
+Blackduck                      JOSHUA          HANNA                21    210308 |  75   |
+Blackduck                      TUCKER          DEPEW                19    190406 | 105   |
+Blackduck                      SAVANNAH        MARSH                19    190405 | 108   |
+Blackduck                      CAROLINE        CHENEY               19    190303 | 115   |
+Blackduck                      KIRSTN          THEISEN              18    180405 | 123   |
+Blackduck                      LOGAN           SUTTON               16    160504 | 153   |
+Blackduck                      RILEY           FISHER               16    160404 | 160   |
+Blackduck                      ELLIOT          STILLDAY             15    150302 | 185   |
+Blackduck                      RIESE           BLOOM                14    140305 | 204   |
+Blackduck                      HALEY           MURRAY               14    140207 | 210   |
+Blackduck                      THOMAS          KELLUM               12    120303 | 232   |
+Blackduck                      SEIENA          MURRAY               10    100403 | 255   |
+Blackduck                      DANIEL          DURANTES             8     80301  | 288   |
+Blackduck                      ZOEY            MILLS                5     50201  | 303   |

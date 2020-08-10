@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Trek North                     Team Base Count: 41            Team Score: 411208 |  24   |
+-----------------------------------------------------------------------------------------|
+Trek North                     LINUS           SCHICKE              16    160405 |  72   |
+Trek North                     AHMYA           MARTELL              14    140402 | 129   |
+Trek North                     NEVAEH          DAY                  11    110401 | 221   |
+Trek North                     SUSAN           STRONG               11    110200 | 241   |
+Trek North                     LILLIAN         JOY                  9     90403  | 269   |
+Trek North                     AURORA          OGEMA                8     80303  | 296   |
+Trek North                     KASHAUNA        LUSSIER              7     70302  | 310   |
+Trek North                     SHAILESE        SMITH                7     70201  | 318   |

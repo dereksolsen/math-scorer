@@ -1,0 +1,14 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Grygla                         Team Base Count: 44            Team Score: 441010 |  19   |
+-----------------------------------------------------------------------------------------|
+Grygla                         PAYTON          GRANDSTRAND          15    150503 |  81   |
+Grygla                         ELISE           MONSON               15    150303 |  88   |
+Grygla                         BAILEY          WATNE                14    140204 | 110   |
+Grygla                         JAKE            AHLBECK              12    120502 | 147   |
+Grygla                         CHEYENNE        IRLBECK              11    110301 | 187   |
+Grygla                         SARAH           SUCHOSKI             10    100202 | 216   |
+Grygla                         ABBY            KIESOW               10    100003 | 231   |
+Grygla                         MACI            BAKKEN               8     80301  | 255   |
+Grygla                         DARIA           WALETZKI             7     70401  | 270   |
+Grygla                         LAYLA           JELLE                4     40002  | 299   |

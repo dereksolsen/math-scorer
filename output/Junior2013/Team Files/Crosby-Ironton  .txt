@@ -1,0 +1,27 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Crosby-Ironton                 Team Base Count: 71            Team Score: 711719 |   8   |
+-----------------------------------------------------------------------------------------|
+Crosby-Ironton                 WALKER          MCKEE                24    240605 |  32   |
+Crosby-Ironton                 KATHRYN         BARNA                24    240508 |  34   |
+Crosby-Ironton                 SAMUEL          JORDAN               23    230606 |  37   |
+Crosby-Ironton                 KATHRYN         IRELAND              23    230406 |  47   |
+Crosby-Ironton                 NATHAN          WILLIAMSNELSON       22    220405 |  54   |
+Crosby-Ironton                 LOREN           SABLAN               21    210505 |  63   |
+Crosby-Ironton                 SAMUEL          LEMIEUR              21    210407 |  69   |
+Crosby-Ironton                 COURTNEY        JOHNSON              21    210404 |  72   |
+Crosby-Ironton                 EVAN            RASMUSSEN            20    200506 |  81   |
+Crosby-Ironton                 MARIAH          BODLE                20    200407 |  84   |
+Crosby-Ironton                 MICHAELA        STANGEL              20    200406 |  87   |
+Crosby-Ironton                 SOMMER          POPKES               20    200405 |  90   |
+Crosby-Ironton                 LOGAN           RASMUSSEN            19    190306 | 113   |
+Crosby-Ironton                 KYLE            SKEIM                19    190306 | 112   |
+Crosby-Ironton                 MEGAN           ERICKSON             18    180503 | 120   |
+Crosby-Ironton                 SHANE           DONOVAN              15    150206 | 187   |
+Crosby-Ironton                 KALINA          SPALJ                15    150204 | 191   |
+Crosby-Ironton                 HUNTER          ROBINSON             15    150202 | 195   |
+Crosby-Ironton                 JENNA           RASMUSSEN            14    140305 | 205   |
+Crosby-Ironton                 ELIZABETH       FRINK                13    130204 | 222   |
+Crosby-Ironton                 ZACHARY         SOVA                 12    120203 | 236   |
+Crosby-Ironton                 EMMA            SANFORD              10    100202 | 263   |
+Crosby-Ironton                 BRADY           LOUKS                7     70202  | 294   |

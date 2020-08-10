@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Mahnomen                       Team Base Count: 46            Team Score: 460912 |  19   |
+-----------------------------------------------------------------------------------------|
+Mahnomen                       MAX             OSE                  18    180306 |  45   |
+Mahnomen                       ISAAC           SVENDSGAARD          14    140304 | 132   |
+Mahnomen                       GARRET          EIYNCK               14    140302 | 138   |
+Mahnomen                       BRUNETTE        LAVOY                9     90301  | 276   |

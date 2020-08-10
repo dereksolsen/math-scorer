@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Bagley                         Team Base Count: 49            Team Score: 491408 |  15   |
+-----------------------------------------------------------------------------------------|
+Bagley                         BRYCEN          FRIBORG              21    210505 |  16   |
+Bagley                         ALEXIS          OGNIEWSKI            14    140502 | 122   |
+Bagley                         KORTNEY         ACKERMAN             14    140401 | 130   |
+Bagley                         GRACEY          HALVERSON            9     90105  | 290   |

@@ -1,0 +1,14 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Mahnomen                       Team Base Count: 53            Team Score: 531508 |   9   |
+-----------------------------------------------------------------------------------------|
+Mahnomen                       JON             STARKEY              19    190403 |  29   |
+Mahnomen                       RACHEL          DURANT               18    180702 |  35   |
+Mahnomen                       WHITNEY         CLARK                16    160403 |  63   |
+Mahnomen                       KAEL            SNETSINGER           16    160304 |  66   |
+Mahnomen                       CALEB           SVENDSGAARD          15    150205 |  92   |
+Mahnomen                       MA_EVAN         DELACRUZZ            13    130303 | 128   |
+Mahnomen                       NATHAN          KRAFT                12    120202 | 164   |
+Mahnomen                       IZAIAH          ASHER                10    100302 | 209   |
+Mahnomen                       SYDNEY          CLARK                8     80301  | 257   |
+Mahnomen                       MAGGIE          HEDSTROM             4     40101  | 296   |

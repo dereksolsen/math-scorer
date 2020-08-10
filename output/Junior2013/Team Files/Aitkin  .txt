@@ -1,0 +1,44 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Aitkin                         Team Base Count: 76            Team Score: 761820 |   5   |
+-----------------------------------------------------------------------------------------|
+Aitkin                         JACOB           KUKOWSKI             26    260608 |  16   |
+Aitkin                         KADY            FASTNER              25    250706 |  22   |
+Aitkin                         JOHNATHAN       RYAN                 25    250506 |  25   |
+Aitkin                         WOODROW         RIAN                 23    230605 |  38   |
+Aitkin                         KIRA            POHL                 23    230408 |  42   |
+Aitkin                         JEREMY          BLAZEK               23    230408 |  44   |
+Aitkin                         GILLIAN         WICKSTROM            22    220407 |  51   |
+Aitkin                         SAMUEL          SADLOWSKY            21    210606 |  59   |
+Aitkin                         JASON           CLINE                21    210407 |  68   |
+Aitkin                         PAYTON          BERG                 21    210404 |  74   |
+Aitkin                         CINNEIDIDH      MCINTOSH             20    200407 |  85   |
+Aitkin                         HANNAH          PAULBECK             20    200405 |  89   |
+Aitkin                         CASEY           AVENALL              19    190306 | 114   |
+Aitkin                         IZAAC           JANZEN               18    180206 | 133   |
+Aitkin                         JON             BLANCHETTE           17    170404 | 138   |
+Aitkin                         KENDRA          GRUHLKE              17    170307 | 146   |
+Aitkin                         JOE             CUMMINGS             16    160503 | 155   |
+Aitkin                         BENZ            ZACHARY              16    160406 | 157   |
+Aitkin                         REAGAN          WILSON               16    160305 | 166   |
+Aitkin                         AMY             GAULKE               16    160205 | 168   |
+Aitkin                         ABIGAIL         MONSE                15    150404 | 174   |
+Aitkin                         COLTIN          POHL                 15    150205 | 189   |
+Aitkin                         JOEL            FREMLING             15    150203 | 194   |
+Aitkin                         CODY            SNYDER               14    140305 | 206   |
+Aitkin                         DAVID           MILLER               14    140205 | 214   |
+Aitkin                         KADE            HOPPERSTAD           13    130203 | 224   |
+Aitkin                         TODD            MANLEY               12    120305 | 229   |
+Aitkin                         BROOKLYN        BREZINSKY            12    120204 | 234   |
+Aitkin                         TIMOTHY         SCHWIETZ             11    110303 | 245   |
+Aitkin                         COLTON          WEIMER               11    110303 | 246   |
+Aitkin                         JONATHON        GALLATINATIN         11    110302 | 247   |
+Aitkin                         CARTER          OLSON                11    110102 | 250   |
+Aitkin                         JILLIAN         MACDONALD            10    100304 | 258   |
+Aitkin                         OLIVIA          FONTAINE             10    100202 | 264   |
+Aitkin                         BROOKLYNN       HANSEN               9     90202  | 277   |
+Aitkin                         GABRIELLA       GIUSTI               8     80402  | 283   |
+Aitkin                         SAMANTHA        TURNER               8     80302  | 284   |
+Aitkin                         SHANNON         FORSTER              8     80103  | 292   |
+Aitkin                         EMA             SHERMAN              6     60301  | 297   |
+Aitkin                         CARTER          DOX                  6     60102  | 300   |

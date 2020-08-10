@@ -1,0 +1,30 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Walker-Hackensack-Akeley       Team Base Count: 54            Team Score: 541511 |  11   |
+-----------------------------------------------------------------------------------------|
+Walker-Hackensack-Akeley       ERIKA           RAND                 18    180505 |  35   |
+Walker-Hackensack-Akeley       LOGAN           WALES                18    180503 |  38   |
+Walker-Hackensack-Akeley       RAYNA           WOOD                 18    180503 |  39   |
+Walker-Hackensack-Akeley       ZACK            EVANS                18    180206 |  47   |
+Walker-Hackensack-Akeley       DOUG            CLARK                17    170404 |  59   |
+Walker-Hackensack-Akeley       EMMA            DEEGAN               16    160504 |  69   |
+Walker-Hackensack-Akeley       CLAIRE          BIESSENER            16    160404 |  75   |
+Walker-Hackensack-Akeley       RILEY           JOHNSON              16    160205 |  89   |
+Walker-Hackensack-Akeley       GEO             MORRIS               16    160205 |  90   |
+Walker-Hackensack-Akeley       JUSTICE         SHAW                 15    150502 | 100   |
+Walker-Hackensack-Akeley       ALLYSON         SEA                  15    150303 | 111   |
+Walker-Hackensack-Akeley       GABBY           CAIRNS               13    130302 | 169   |
+Walker-Hackensack-Akeley       CARSON          STROSAHL             13    130105 | 178   |
+Walker-Hackensack-Akeley       RAYMOND         ZIERDEN              13    130101 | 182   |
+Walker-Hackensack-Akeley       KARLY           JOHNSON              12    120102 | 219   |
+Walker-Hackensack-Akeley       MACKENZIE       RADDATZ              11    110302 | 227   |
+Walker-Hackensack-Akeley       ELIJAH          VANDERVEER           11    110101 | 248   |
+Walker-Hackensack-Akeley       ELISE           RICE                 10    100401 | 252   |
+Walker-Hackensack-Akeley       SMITH           MARYJO               10    100301 | 254   |
+Walker-Hackensack-Akeley       JAKE            SMITH                10    100300 | 255   |
+Walker-Hackensack-Akeley       BRE             VINKEMEIER           10    100202 | 259   |
+Walker-Hackensack-Akeley       MALORIE         KNOX                 10    100201 | 263   |
+Walker-Hackensack-Akeley       NATALIE         RESCHSEELY           9     90301  | 274   |
+Walker-Hackensack-Akeley       RYLEE           CARLSON              9     90203  | 282   |
+Walker-Hackensack-Akeley       BROOKE          VINKEMEIER           8     80202  | 302   |
+Walker-Hackensack-Akeley       KATELYN         DELOST               6     60101  | 329   |

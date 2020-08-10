@@ -1,0 +1,9 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Park Rapids                    Team Base Count: 55            Team Score: 550911 |   9   |
+-----------------------------------------------------------------------------------------|
+Park Rapids                    ELLIE           GWIAZDON             21    210306 |  19   |
+Park Rapids                    ALLISON         OFFERDAHL            20    200304 |  25   |
+Park Rapids                    JAYNINE         BORDERS              14    140301 | 139   |
+Park Rapids                    SHAILYN         PACHEL               14    140204 | 143   |
+Park Rapids                    KELSEY          BERGHUIS             13    130203 | 176   |

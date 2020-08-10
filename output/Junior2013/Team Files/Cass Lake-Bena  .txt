@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Cass Lake-Bena                 Team Base Count: 53            Team Score: 531120 |  18   |
+-----------------------------------------------------------------------------------------|
+Cass Lake-Bena                 JARED           BROWN                19    190406 | 103   |
+Cass Lake-Bena                 CAMDYN          FINEDAY              19    190309 | 110   |
+Cass Lake-Bena                 ANTONIO         BROWN                15    150405 | 173   |
+Cass Lake-Bena                 XAVIER          FOURNIER             15    150403 | 179   |
+Cass Lake-Bena                 ALEXANDER       WASHINGTON           13    130301 | 221   |
+Cass Lake-Bena                 DELANO          BROWN                12    120102 | 239   |
+Cass Lake-Bena                 BRENT           FOWLER               11    110502 | 241   |
+Cass Lake-Bena                 MATTHEW         VILLEBRUN            10    100200 | 266   |

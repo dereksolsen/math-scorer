@@ -1,0 +1,24 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Badger                         Team Base Count: 63            Team Score: 631720 |  14   |
+-----------------------------------------------------------------------------------------|
+Badger                         ALEX            YLITALO              24    240608 |  29   |
+Badger                         ISAAC           LORENSON             20    200606 |  78   |
+Badger                         GAVIN           DAVY                 19    190506 |  96   |
+Badger                         EMMA            VONENDE              17    170406 | 136   |
+Badger                         GONZALO         BODEMER              16    160306 | 162   |
+Badger                         BRANDON         PRIES                16    160305 | 163   |
+Badger                         KIANA           JACOBSON             16    160203 | 170   |
+Badger                         KENNEDY         TRUSCINSKI           15    150305 | 182   |
+Badger                         LOGAN           KOMPELIEN            12    120304 | 230   |
+Badger                         EMMA            GUST                 12    120303 | 231   |
+Badger                         TESSA           SANDEN               12    120302 | 233   |
+Badger                         EMILY           GUST                 12    120202 | 238   |
+Badger                         KAEDEN          HIETALA              11    110501 | 242   |
+Badger                         AMELIA          STAINBROOK           11    110501 | 243   |
+Badger                         MORGAN          PRASKA               11    110400 | 244   |
+Badger                         GANNON          SUEDEL               8     80301  | 286   |
+Badger                         KARISSA         KAML                 8     80203  | 289   |
+Badger                         TESSA           BLUMER               6     60101  | 301   |
+Badger                         DERRICK         CORNELIUSEN          4     40100  | 305   |
+Badger                         OLIVIA          OLSON                4     40001  | 306   |

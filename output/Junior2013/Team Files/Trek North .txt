@@ -1,0 +1,11 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Trek North                     Team Base Count: 68            Team Score: 681419 |  10   |
+-----------------------------------------------------------------------------------------|
+Trek North                     HONOR           LACROIX              27    270508 |  12   |
+Trek North                     ETHAN           TOBIN                23    230506 |  40   |
+Trek North                     CHRISTINA       MARTIN               18    180405 | 121   |
+Trek North                     KYLEE           HUMPHREY             15    150205 | 188   |
+Trek North                     ZAHRA           GOODWIN              14    140405 | 199   |
+Trek North                     JAKE            ATENCIO              12    120501 | 226   |
+Trek North                     DEJA            MATTISON             11    110204 | 249   |

@@ -1,0 +1,11 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Park Rapids                    Team Base Count: 69            Team Score: 691518 |   9   |
+-----------------------------------------------------------------------------------------|
+Park Rapids                    JAKE            REISH                28    280608 |   6   |
+Park Rapids                    KATIE           EISCHENS             22    220506 |  49   |
+Park Rapids                    PAIGE           LEESEBERG            19    190404 | 109   |
+Park Rapids                    WHITNEY         STEFFEL              17    170404 | 139   |
+Park Rapids                    SARA            SIMPSON              17    170403 | 145   |
+Park Rapids                    ABBY            EYSTAD               14    140303 | 208   |
+Park Rapids                    CORAL           JOHNSON              12    120203 | 237   |

@@ -1,0 +1,7 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Northome                       Team Base Count: 24            Team Score: 240404 |  22   |
+-----------------------------------------------------------------------------------------|
+Northome                       JONAH           MATHIS               11    110102 | 251   |
+Northome                       TALOR           HYATT                8     80202  | 290   |
+Northome                       ANASTASIA       NOYES                5     50100  | 304   |

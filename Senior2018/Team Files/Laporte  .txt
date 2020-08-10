@@ -1,0 +1,9 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Laporte                        Team Base Count: 39            Team Score: 390608 |  22   |
+-----------------------------------------------------------------------------------------|
+Laporte                        KIAH            REIMER               14    140302 | 107   |
+Laporte                        REBECCA         CLYDE                13    130204 | 133   |
+Laporte                        CHRISTOPHER     MCDOUGALL            12    120102 | 173   |
+Laporte                        HANNAH          KAHLSTORF            11    110200 | 195   |
+Laporte                        MATIA           ERICKSON             5     50200  | 290   |

@@ -1,0 +1,5 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Detroit Lakes                  Team Base Count: 14            Team Score: 140203 |  27   |
+-----------------------------------------------------------------------------------------|
+Detroit Lakes                  JUSTIN          BIEDERMAN            14    140203 | 148   |

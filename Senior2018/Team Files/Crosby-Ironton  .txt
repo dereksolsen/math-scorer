@@ -1,0 +1,29 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Crosby-Ironton                 Team Base Count: 62            Team Score: 621212 |   4   |
+-----------------------------------------------------------------------------------------|
+Crosby-Ironton                 MEGAN           ERICKSON             23    230305 |   8   |
+Crosby-Ironton                 TREVOR          HUTCHISON            21    210404 |  17   |
+Crosby-Ironton                 MARIAH          BODLE                18    180503 |  36   |
+Crosby-Ironton                 LOGAN           RASMUSSEN            18    180304 |  40   |
+Crosby-Ironton                 ABIGAIL         ARNESON              17    170404 |  47   |
+Crosby-Ironton                 MICHAELA        STANGEL              17    170205 |  55   |
+Crosby-Ironton                 GRACIE          SLOWINSKI            16    160401 |  64   |
+Crosby-Ironton                 BROOKLYN        FELTEN               14    140403 |  99   |
+Crosby-Ironton                 SHELAIN         LEWIS                14    140302 | 108   |
+Crosby-Ironton                 KATHRYN         BARNA                14    140201 | 115   |
+Crosby-Ironton                 JAMES           STIREWALT            13    130403 | 121   |
+Crosby-Ironton                 DANIELLE        RYDBERG              13    130103 | 143   |
+Crosby-Ironton                 SAMUEL          ROBERTS              12    120302 | 153   |
+Crosby-Ironton                 BREA            AMUNDSON             12    120302 | 154   |
+Crosby-Ironton                 JENNA           RASMUSSEN            12    120301 | 158   |
+Crosby-Ironton                 LOREN           SABLAN               12    120103 | 171   |
+Crosby-Ironton                 ANNIKA          SEVESON              12    120103 | 172   |
+Crosby-Ironton                 ANTHONY         HUDRLIK              11    110501 | 177   |
+Crosby-Ironton                 SAMUEL          LEMIEUR              11    110500 | 178   |
+Crosby-Ironton                 KATHRYN         IRELAND              11    110303 | 181   |
+Crosby-Ironton                 BRADY           LOUKS                11    110203 | 189   |
+Crosby-Ironton                 ELIZABETH       FRINK                10    100203 | 213   |
+Crosby-Ironton                 MADISON         BORDWELL             9     90201  | 244   |
+Crosby-Ironton                 SOMMER          POPKES               9     90102  | 250   |
+Crosby-Ironton                 EMMA            SANFORD              6     60102  | 285   |

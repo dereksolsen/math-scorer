@@ -1,0 +1,20 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Greenbush-Middle River         Team Base Count: 65            Team Score: 651513 |   3   |
+-----------------------------------------------------------------------------------------|
+Greenbush-Middle River         RYAN            HLUCNY               27    270405 |   3   |
+Greenbush-Middle River         JOHN            NOVACEK              20    200603 |  22   |
+Greenbush-Middle River         CONNER          WOJCHOWSKI           18    180505 |  34   |
+Greenbush-Middle River         LAUREN          KVIEN                18    180305 |  46   |
+Greenbush-Middle River         ELLA            HEGGEDAL             16    160304 |  83   |
+Greenbush-Middle River         ANISSAH         NOVACEK              15    150306 | 106   |
+Greenbush-Middle River         ASHER           BURSLIE              14    140402 | 128   |
+Greenbush-Middle River         LAUREN          STENBERG             14    140204 | 144   |
+Greenbush-Middle River         DENTON          BURKEL               14    140202 | 151   |
+Greenbush-Middle River         CAIDEN          DURAY                13    130504 | 153   |
+Greenbush-Middle River         MOLLY           ANDERSON             12    120302 | 202   |
+Greenbush-Middle River         MEGAN           WILLIAMSON           12    120302 | 199   |
+Greenbush-Middle River         TONY            OLSON                12    120103 | 218   |
+Greenbush-Middle River         MORGAN          REED                 11    110201 | 240   |
+Greenbush-Middle River         KUZNIA          THERON               9     90101  | 294   |
+Greenbush-Middle River         TESSANY         BERTILRUD            8     80202  | 301   |

@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Kittson Central                Team Base Count: 54            Team Score: 541409 |   8   |
+-----------------------------------------------------------------------------------------|
+Kittson Central                FINN            BLOMQUIST_EG         23    230704 |   4   |
+Kittson Central                ZACHARY         PASTIR               16    160503 |  59   |
+Kittson Central                MARLEE          TURN                 15    150202 |  95   |
+Kittson Central                MORGAN          HANSON               8     80302  | 254   |

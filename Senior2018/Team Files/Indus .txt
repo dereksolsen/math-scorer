@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Indus                          Team Base Count: 46            Team Score: 461108 |  16   |
+-----------------------------------------------------------------------------------------|
+Indus                          MAGGIE          MORGAN               16    160503 |  60   |
+Indus                          TAYLOR          HYATT                16    160203 |  75   |
+Indus                          KIMBURLY        LOYCANO              14    140402 | 101   |
+Indus                          KIERSTYN        JOHNSON              10    100201 | 222   |
+Indus                          RYAN            NOYES                10    100103 | 224   |
+Indus                          JONAH           MATHIS               8     80201  | 260   |
+Indus                          EMMA            MORGAN               7     70301  | 273   |
+Indus                          ANASTASIA       NOYES                5     50202  | 289   |

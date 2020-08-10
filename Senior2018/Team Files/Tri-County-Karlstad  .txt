@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Tri-County-Karlstad            Team Base Count: 30            Team Score: 301006 |  28   |
+-----------------------------------------------------------------------------------------|
+Tri-County-Karlstad            HAILLEY         ANDERSON             11    110302 | 185   |
+Tri-County-Karlstad            HAILEY          BARTH                10    100302 | 210   |
+Tri-County-Karlstad            AGRACIA         MELCHER              9     90402  | 233   |
+Tri-County-Karlstad            BEAU            WALZ                 9     90201  | 246   |
+Tri-County-Karlstad            ETHAN           KLEGSTAD             9     90104  | 248   |
+Tri-County-Karlstad            MANDA           WOLLIN               9     90001  | 251   |
+Tri-County-Karlstad            COLTON          NEWELL               6     60002  | 287   |
+Tri-County-Karlstad            GUNNER          KOLAND               4     40100  | 298   |

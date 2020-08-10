@@ -1,0 +1,11 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Kittson Central                Team Base Count: 49            Team Score: 490813 |  16   |
+-----------------------------------------------------------------------------------------|
+Kittson Central                RYLEE           BERGERON             18    180205 |  48   |
+Kittson Central                ALYSSA          WIESE                16    160304 |  82   |
+Kittson Central                HAYDEN          OLSONAWSKI           15    150304 | 109   |
+Kittson Central                BRANDON         RISTAD               15    150205 | 114   |
+Kittson Central                AIDRA           JOHNSON              14    140204 | 142   |
+Kittson Central                DANIELLA        STEYN                12    120303 | 198   |
+Kittson Central                ETHAN           HANSON               9     90204  | 279   |

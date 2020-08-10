@@ -1,0 +1,24 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Laporte                        Team Base Count: 54            Team Score: 541215 |  10   |
+-----------------------------------------------------------------------------------------|
+Laporte                        DARIN           CRONEMILLER          22    220605 |  11   |
+Laporte                        ALEXANDER       FORSEMAN             16    160306 |  78   |
+Laporte                        ETHAN           MOSS                 16    160304 |  84   |
+Laporte                        SYMONE          EVANS                15    150505 |  98   |
+Laporte                        WYATT           JOHANNSEN            15    150303 | 112   |
+Laporte                        LACEY           LAHR                 15    150203 | 116   |
+Laporte                        ETHAN           FORSEMAN             15    150203 | 117   |
+Laporte                        TRENYCE         JERNBERG             14    140502 | 121   |
+Laporte                        TATE            DAILEY               13    130204 | 172   |
+Laporte                        ALYSSA          MOSS                 12    120502 | 185   |
+Laporte                        MYA             KORNEZOS             9     90400  | 270   |
+Laporte                        ELLA            FENSKE               9     90301  | 273   |
+Laporte                        NOLAN           TAYLOR               8     80201  | 303   |
+Laporte                        CAMRYN          BRONCZYK             8     80102  | 306   |
+Laporte                        ASHLYN          HALVERSON            8     80101  | 308   |
+Laporte                        GIBSON          SMITH                7     70302  | 311   |
+Laporte                        BADLE           STENVGER             7     70102  | 321   |
+Laporte                        BENJAMIN        SULLIVAN             7     70101  | 323   |
+Laporte                        OLIVIA          TAYLOR               7     70003  | 325   |
+Laporte                        JESSE           CRONEMILLER          6     60103  | 328   |

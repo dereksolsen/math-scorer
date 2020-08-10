@@ -1,0 +1,20 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Verndale                       Team Base Count: 56            Team Score: 561116 |   7   |
+-----------------------------------------------------------------------------------------|
+Verndale                       BRODIMIN        FEELA                19    190504 |  29   |
+Verndale                       ZACH            BROWNLOW             19    190207 |  31   |
+Verndale                       JOELLE          BOUNDS               18    180405 |  42   |
+Verndale                       BRADLEY         KIMBALLBR            17    170405 |  57   |
+Verndale                       JAMIE           HAHN                 17    170304 |  66   |
+Verndale                       TYLER           FISKUM               16    160403 |  76   |
+Verndale                       KALEY           QUAM                 16    160105 |  95   |
+Verndale                       ALEC            LUNDBERG             16    160105 |  94   |
+Verndale                       KVETON          MACKENZIE            15    150403 | 104   |
+Verndale                       KIRSTEN         HEIBERG              15    150304 | 110   |
+Verndale                       DILAN           ORLANDO              15    150204 | 115   |
+Verndale                       HANNAH          HINMAN               14    140504 | 119   |
+Verndale                       BRIA            HOYHTYA              14    140501 | 123   |
+Verndale                       MADISON         SCHMITZ              14    140203 | 146   |
+Verndale                       JOSH            JOHNSON              13    130103 | 181   |
+Verndale                       JADEN           FINCK                12    120203 | 211   |

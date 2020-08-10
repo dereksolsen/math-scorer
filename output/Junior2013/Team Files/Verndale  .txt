@@ -1,0 +1,30 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Verndale                       Team Base Count: 61            Team Score: 610918 |  15   |
+-----------------------------------------------------------------------------------------|
+Verndale                       TATE            BOUNDS               21    210207 |  77   |
+Verndale                       EVELYN          TYRRELL              20    200505 |  82   |
+Verndale                       ALLISON         OLSSON               20    200206 |  95   |
+Verndale                       NICK            SHARMA               18    180503 | 119   |
+Verndale                       ALYSSA          THOMPSON             18    180405 | 125   |
+Verndale                       COURTNEY        ROTH                 18    180405 | 124   |
+Verndale                       JACKSON         WENIGER              18    180405 | 122   |
+Verndale                       MELISSA         HAMMER               18    180307 | 129   |
+Verndale                       MOLLY           BROWNLOW             17    170406 | 137   |
+Verndale                       MORGAN          GLENZ                16    160504 | 154   |
+Verndale                       MARDI           EHRMANTRAUT          16    160404 | 159   |
+Verndale                       RYAN            ISMIL                15    150403 | 176   |
+Verndale                       BRIANNA         HINMAN               15    150403 | 177   |
+Verndale                       CADEN           ELBERT               15    150302 | 186   |
+Verndale                       BRAYDEN         VERTINA              14    140403 | 201   |
+Verndale                       GARET           YOUNGBAUER           14    140402 | 203   |
+Verndale                       HUNTER          SEEFELDT             14    140206 | 211   |
+Verndale                       LEIGHA          SCHMITZ              12    120403 | 227   |
+Verndale                       MATTHEW         SCHLUTTNER           12    120401 | 228   |
+Verndale                       ZOE             SCHWANKE             12    120204 | 235   |
+Verndale                       CHASE           GRABA                11    110002 | 253   |
+Verndale                       ALETHA          STANLEY              10    100401 | 256   |
+Verndale                       SARAH           BARRETT              10    100106 | 267   |
+Verndale                       RYAN            HAHN                 9     90402  | 270   |
+Verndale                       ELLIE           PETERSEN             9     90201  | 278   |
+Verndale                       JARRET          KVETON               8     80101  | 293   |

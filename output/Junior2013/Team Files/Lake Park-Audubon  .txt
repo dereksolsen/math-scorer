@@ -1,0 +1,13 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Lake Park-Audubon              Team Base Count: 74            Team Score: 741618 |   6   |
+-----------------------------------------------------------------------------------------|
+Lake Park-Audubon              MORGAN          KRUGER               26    260508 |  19   |
+Lake Park-Audubon              ELISE           GRABINGER            24    240604 |  33   |
+Lake Park-Audubon              CALEB           NOEL                 24    240506 |  35   |
+Lake Park-Audubon              SHADAISA        STALBERGER           19    190505 | 100   |
+Lake Park-Audubon              SOPHIA          HAGEN                18    180305 | 132   |
+Lake Park-Audubon              BRIARD          GRANT                17    170404 | 141   |
+Lake Park-Audubon              KEVIN           BJORGAN              16    160303 | 167   |
+Lake Park-Audubon              ALEXIS          LEININGER            15    150305 | 181   |
+Lake Park-Audubon              JUSTIN          WETLI                9     90102  | 282   |

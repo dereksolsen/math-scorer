@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Grygla                         Team Base Count: 59            Team Score: 591616 |  16   |
+-----------------------------------------------------------------------------------------|
+Grygla                         ABBY            KIESOW               21    210706 |  58   |
+Grygla                         SARAH           SUCHOSKI             19    190505 |  98   |
+Grygla                         JAKE            AHLBECK              19    190405 | 106   |
+Grygla                         JADEN           KIESOW               15    150203 | 193   |
+Grygla                         OLIVIA          TYKWARD              14    140404 | 200   |
+Grygla                         CHEYENNE        IRLBECK              14    140305 | 207   |
+Grygla                         LUCIAN          TINNES               13    130402 | 217   |
+Grygla                         PEYTON          VERBOUT              8     80103  | 291   |

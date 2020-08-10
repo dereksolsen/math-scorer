@@ -1,0 +1,9 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Kittson Central                Team Base Count: 54            Team Score: 541016 |  17   |
+-----------------------------------------------------------------------------------------|
+Kittson Central                FINN            BLOMQUISTEGGERLING   25    250509 |  24   |
+Kittson Central                MORGAN          HANSON               15    150104 | 197   |
+Kittson Central                MARLEE          TURN                 14    140403 | 202   |
+Kittson Central                SHELBY          PANKRATZ             13    130203 | 223   |
+Kittson Central                ZACHARY         PASTIR               12    120002 | 240   |

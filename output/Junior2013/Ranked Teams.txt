@@ -1,0 +1,25 @@
+School                         Class |Base Score     |Score   |Place   |Place In Class|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bemidji                            AA|             92|  922324|       1|             1|
+Thief River Falls                  AA|             86|  862022|       2|             2|
+Detroit Lakes                      AA|             80|  802022|       3|             3|
+Pelican Rapids                      A|             79|  791624|       4|             1|
+Aitkin                              A|             76|  761820|       5|             2|
+Lake Park-Audubon                   A|             74|  741618|       6|             3|
+Walker-Hackensack-Akeley            A|             73|  731420|       7|             4|
+Crosby-Ironton                      A|             71|  711719|       8|             5|
+Park Rapids                         A|             69|  691518|       9|             6|
+Trek North                          A|             68|  681419|      10|             7|
+Blackduck                           A|             65|  651321|      11|             8|
+Greenbush-Middle River              A|             65|  651621|      12|             9|
+Kelliher                            A|             64|  641119|      13|            10|
+Badger                              A|             63|  631720|      14|            11|
+Verndale                            A|             61|  610918|      15|            12|
+Grygla                              A|             59|  591616|      16|            13|
+Kittson Central                     A|             54|  541016|      17|            14|
+Cass Lake-Bena                      A|             53|  531120|      18|            15|
+Laporte                             A|             53|  531414|      19|            16|
+Warroad                             A|             52|  520913|      20|            17|
+Tri-County-Karlstad                 A|             50|  501019|      21|            18|
+Northome                            A|             24|  240404|      22|            19|
+Indus                               A|             17|  170404|      23|            20|

@@ -1,0 +1,14 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Badger                         Team Base Count: 48            Team Score: 481108 |  12   |
+-----------------------------------------------------------------------------------------|
+Badger                         ALEX            YLITALO              19    190405 |  28   |
+Badger                         GAVIN           DAVY                 17    170503 |  45   |
+Badger                         COLTEN          GUST                 12    120200 | 169   |
+Badger                         TESSA           BLUMER               11    110302 | 183   |
+Badger                         TIMOTHY         KJELLAND             10    100402 | 203   |
+Badger                         ISAAC           LORENSON             10    100401 | 207   |
+Badger                         KIANA           JACOBSON             9     90202  | 240   |
+Badger                         EMMA            GUST                 7     70301  | 272   |
+Badger                         ESTHER          NELSON               5     50102  | 291   |
+Badger                         LOGAN           SUNSDAHL             4     40101  | 297   |

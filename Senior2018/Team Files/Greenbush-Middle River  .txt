@@ -1,0 +1,13 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Greenbush-Middle River         Team Base Count: 46            Team Score: 461109 |  15   |
+-----------------------------------------------------------------------------------------|
+Greenbush-Middle River         DYLAN           HEGGEDAL             20    200504 |  20   |
+Greenbush-Middle River         ELLA            KOEBERNICK           14    140203 | 112   |
+Greenbush-Middle River         KAMRIN          WEETS                12    120402 | 148   |
+Greenbush-Middle River         SARAH           STANELLE             12    120302 | 155   |
+Greenbush-Middle River         PIPER           SONDREAL             12    120302 | 157   |
+Greenbush-Middle River         BREYDON         BERTILRUD            9     90301  | 235   |
+Greenbush-Middle River         BREEANNA        NOVACEK              9     90301  | 236   |
+Greenbush-Middle River         JAKE            TAGGART              8     80102  | 266   |
+Greenbush-Middle River         KEEGAN          RUSTAD               7     70102  | 274   |

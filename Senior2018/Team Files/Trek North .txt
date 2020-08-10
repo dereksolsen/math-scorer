@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Trek North                     Team Base Count: 39            Team Score: 390708 |  23   |
+-----------------------------------------------------------------------------------------|
+Trek North                     JAKE            ATENCIO              15    150303 |  85   |
+Trek North                     ETHAN           TOBIN                13    130302 | 129   |
+Trek North                     ALEXANDER       KINGBIRD_LOWRY       11    110103 | 199   |
+Trek North                     KYLEE           HUMPHREY             10    100201 | 219   |

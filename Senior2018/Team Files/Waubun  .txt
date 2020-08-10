@@ -1,0 +1,13 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Waubun                         Team Base Count: 44            Team Score: 441207 |  20   |
+-----------------------------------------------------------------------------------------|
+Waubun                         COLLIN          ADAMS                17    170403 |  48   |
+Waubun                         CASE            DORMAN               14    140403 |  98   |
+Waubun                         LOGAN           PAZDERNIK            13    130401 | 123   |
+Waubun                         NATHAN          NELSON               12    120201 | 168   |
+Waubun                         CARISSA         KENT                 10    100400 | 208   |
+Waubun                         ELIZABETH       REICH                10    100202 | 214   |
+Waubun                         AUGUSTUS        VANATA               6     60200  | 283   |
+Waubun                         FIYRIE          BOSWELL              6     60200  | 284   |
+Waubun                         DOUGLAS         MCARTHUR             5     50101  | 293   |

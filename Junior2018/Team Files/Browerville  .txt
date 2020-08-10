@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Browerville                    Team Base Count: 31            Team Score: 310905 |  26   |
+-----------------------------------------------------------------------------------------|
+Browerville                    LEVI            STEARNS              11    110301 | 230   |
+Browerville                    LILY            PUCK                 10    100402 | 251   |
+Browerville                    ALYAH           ABRAHAMSON           10    100202 | 261   |
+Browerville                    ZOE             HILLMER              9     90202  | 283   |

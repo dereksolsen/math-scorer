@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Park Rapids                    Team Base Count: 63            Team Score: 631411 |   3   |
+-----------------------------------------------------------------------------------------|
+Park Rapids                    KATIE           EISCHENS             22    220404 |  13   |
+Park Rapids                    KAELAN          EMERSON              21    210503 |  15   |
+Park Rapids                    JAKE            REISH                20    200504 |  22   |
+Park Rapids                    PRESTON         RENNEBERG            19    190306 |  33   |
+Park Rapids                    SYDNEY          KOPPELMAN            18    180306 |  39   |
+Park Rapids                    WHITNEV         STEFFEL              17    170403 |  49   |
+Park Rapids                    JON             WORNER               12    120202 | 166   |
+Park Rapids                    PAIGE           LEESEBERG            12    120101 | 174   |

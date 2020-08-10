@@ -1,0 +1,358 @@
+                                   41ST ANNUAL NORTHERN MINNESOTA MATHEMATICS CONTEST
+                                                    OCTOBER 29, 2013
+
+                                     Department of Mathematics and Computer Science
+                                                Bemidji State University
+
+                                                    Senior Division
+
+               1111111111222222222233333333334
+      1234567890123456789012345678901234567890
+      ----------------------------------------
+Key:  4323422222412112211523444333145414313214
+Ties: *1*121**1**22***12*112*2*1*12**21**2**2*
+
+Answers for 40 questions in the key.
+Checking individual correct answers...
+0 errors in the answer key.
+
+Tiebreakers marks for 40 answers.
+Checking individual tiebreakers...
+0 tiebreaker errors.
+
+OK KOVATOVICH, MATTIE M                Senior  A Crosby-Ironton           5234134231244344153152231311155141215424
+OK WALDO, MACY M                       Senior  A Kelliher                 1433454624456215232222452313135524323254
+OK NUPDAL, HALLIE J                    Senior  A Kittson Central          1513541211353112124544553553152144353522
+OK JOHNSON, CHASE B                    Senior  A Cass Lake-Bena           3213325224243444121321345323142153233344
+OK NEAL, ADDISON M                     Senior  A Verndale                 1442531134344142134311433313153235413323
+OK STEWART, BRAD G                     Senior  A Kittson Central          1234332224543112423221421413432144333223
+OK SOVA, NATE J                        Senior  A Crosby-Ironton           1332122514444112122314243551141144213233
+OK GLENZ, SHANIA                       Senior  A Verndale                 4213514555551114154345242113355454315255
+OK CHRISTENSON, ANDREW                 Senior  A Kittson Central          1233451231545111333544121513152424223424
+OK SILGEN, WILLIAM J                   Senior  A Crosby-Ironton           1314234114433124144543341413134433323333
+OK BROWNLOW, JORDAN J                  Senior  A Verndale                 3432251543523154132551345532421145413413
+OK GJERDE, QUINTEN J                   Senior  A Kittson Central          143324133254342431554212*323415424523514
+OK KERN, LYNNETTE K                    Senior  A Verndale                 1242145412413122142351422312135134334331
+OK DOCKEN, SYDNEY                      Senior  A Kittson Central          2314434521542212334543353323324414313131
+OK RAINES, MARTIN                      Senior  A Cass Lake-Bena           1333232142343132245313213413112222321325
+OK LUNSETTER, ELLIE J                  Senior  A Kittson Central          4433133525525312141441353454432515553314
+OK VERONEN, EMILY A                    Senior  A Verndale                 1323432211143222322114432313343415323311
+OK HARTWIG, EMMA H                     Senior  A Kittson Central          2243341213533112421244322213143214323213
+OK RICHTER, STACY                      Senior  A Verndale                 5311535124145353421543243413152341411234
+OK HARPER, NEO M                       Senior  A Cass Lake-Bena           4225131342342112533544244433123414354244
+OK JOHNSON, NICHOLAS                   Senior  A Kittson Central          5332415141541512441544143413135234523431
+OK HELLER, TRISTEN M                   Senior  A Verndale                 1413425324445112321144344411345434523434
+OK LAWRENCE, JORDAN W                  Senior  A Cass Lake-Bena           5213425321522312543435435213424232113412
+OK REYES, MICHAEL                      Senior  A Cass Lake-Bena           2434234132155322322222242412122411352334
+OK PRESTON, SYDNEY L                   Senior  A Kelliher                 1313432452125111421523412332125414323133
+OK JOHNSON, KATIE                      Senior  A Verndale                 1313524311342542434541442432145431315245
+OK STANGEL, DAMON                      Senior  A Cass Lake-Bena           1533142521513412253124512241124231323555
+OK YOUNGBAUER, HALEY                   Senior  A Verndale                 1512435312355132454145442412352134423152
+OK THIBERT, SAVANNAH                   Senior  A Kelliher                 3223233152323213212414342412122424313313
+OK JORGENSEN, KAITLYN M                Senior  A Kelliher                 2534132322541312354314343213322354453322
+OK LEISTER, PAYTON M                   Senior  A Kelliher                 3433142513434444134543441411123444413132
+OK SWENSON, BRITA F                    Senior  A Tri-County-Karlstad      3412531425543214131324541215141321213425
+OK KROGSENG, ISAAC L                   Senior  A Kelliher                 2212533225442313553543545515452422513335
+OK SPILDE, BEAU T                      Senior  A Tri-County-Karlstad      1232254314352414134544442112132244315213
+OK WAAGE, SHAUN B                      Senior  A Greenbush-Middle River   1311325114154413234534441313135122353111
+OK KRANTZ, TUCKER                      Senior  A Tri-County-Karlstad      3313551224354114235341341213151234233124
+OK HIUCNY, ROBERT J                    Senior  A Greenbush-Middle River   5413134322522132233524443332133321223132
+OK TJEPKES, DYLAN M                    Senior  A Kelliher                 1135224235123132251342323113131152123123
+OK PEREZ, DANI                         Senior  A Kittson Central          1321421221441212321544245313351414213322
+OK THOMPSON, ALEXYS                    Senior  A Verndale                 1234434321334211321432343212123231231443
+OK SPALJ, ZACHARIAH T                  Senior  A Crosby-Ironton           2314532441531213241343241231432443525132
+OK BUDERUS, DAKOTA D                   Senior  A Verndale                 2323444222153412113332343313114244313334
+OK DAHL, KARIN E                       Senior  A Kittson Central          2313335312523142134244344213323421323441
+OK SANFORD, BEAU D                     Senior  A Crosby-Ironton           4312223342142311332541443413423244313322
+OK SCHMITZ, KYLE R                     Senior  A Verndale                 1331231124323153125324145352414234413432
+OK RISTAD, HANNAH R                    Senior  A Kittson Central          1333534312124412534345423153152315253354
+OK SOLIAH, KASEY M                     Senior  A Kittson Central          3213234152413132351214131413451434323323
+OK LARSON, HANNAH E                    Senior  A Crosby-Ironton           3312234424541421142342443331424224323323
+OK VANWERT, WHITNEY R                  Senior  A Kelliher                 1214232412312234213523435133341424313253
+OK SILGEN, JACK                        Senior  A Crosby-Ironton           1323322122333212321544244313342144323211
+OK GINDORFF, NOAH                      Senior  A Crosby-Ironton           3343424323452212421541143333245444313334
+OK LQUKS, ANDREW J                     Senior  A Crosby-Ironton           1511523222112451124343442414124521153214
+OK WALD, TIANNA M                      Senior  A Pelican Rapids           1213534224121433344421142432435125312334
+OK GRAVES, ANESSA                      Senior  A Kelliher                 3213334352222323411142435122122424353333
+OK HILLMAN, MCKENZIE C                 Senior  A Kelliher                 1533554244135443215123342131124241551353
+OK CAPLE, EMILY R                      Senior  A Kittson Central          1213234513124112231442153313432324334233
+OK SHULSTAD, BAILEY K                  Senior  A Pelican Rapids           4212431123354413241142142333145125313114
+OK HENDRICKS, ALLYSON N                Senior  A Kelliher                 2243431224313454125224141431134215223115
+OK OSBORNE, BRANDON                    Senior  A Pelican Rapids           2233422112321314422223144313242214323133
+OK BESSER, BENJAMIN A                  Senior  A Greenbush-Middle River   3413121421535342235342353412121441253212
+OK KORYNTA, BROOKLYN M                 Senior  A Pelican Rapids           1313425122352412334114342423325424233214
+OK JENSEN, CLYDE                       Senior  A Kelliher                 2313334121342413142344441333122411321433
+OK LEONHARDT, MICHAEL                  Senior  A Crosby-Ironton           1323424315344112512541444133141444533514
+OK HART, PRESTON L                     Senior  A Pelican Rapids           2413414421321553242153242233135425243535
+OK EDMUNDSON, EVAN A                   Senior  A Crosby-Ironton           1215333224424122341513345443253425223414
+OK DAVIS, AUSTIN R                     Senior  A Crosby-Ironton           3323233333333333333533351343133334333333
+OK THORNTON, MASON                     Senior  A Pelican Rapids           5515455255555352355555554455155454553555
+OK KNOX, BREHNDAN                      Senior  A Crosby-Ironton           2414231242513321312113343313123414324224
+OK JOHNSON, MORIAH J                   Senior  A Pelican Rapids           2315425222125222122512243323152524555225
+OK FAUST, JACOB C                      Senior  A Crosby-Ironton           3335131323455212122444445333133414412354
+OK LENZ, ALISON                        Senior  A Crosby-Ironton           1313252421453434241243351433123213223323
+OK KLANCHER, ALYSSA M                  Senior  A Crosby-Ironton           1*13334241452114223432113312313414313233
+OK PERPICH, KORBYN E                   Senior  A Crosby-Ironton           1131143211535323321523342311141244423514
+OK JORDAN, HEATHER G                   Senior  A Crosby-Ironton           5313214224113413413423434413122211225312
+OK DOUST, MILEENA A                    Senior  A Crosby-Ironton           1323233111443322121524343333133414413332
+OK KIM, JAY                            Senior  A Crosby-Ironton           2323324321424212314221424331325414313214
+OK REIDELL, MICHAELA A                 Senior  A Crosby-Ironton           1*215231**522122554544442413131534313534
+OK GLOMSKI, NICOLETTE M                Senior  A Crosby-Ironton           1213254322553132134144442113141513241452
+OK NATTRASS, ASHLYNNE B                Senior  A Blackduck                1322434124343113413543442313243413313431
+OK HAIBY, CADE A                       Senior  A Blackduck                3323421232425252351543542213321444455222
+OK HALUPTZQK, BRYANNA                  Senior  A Blackduck                13224343243343122425435433431314352122**
+OK CHISHOLM, IVY M                     Senior  A Crosby-Ironton           4213531122332412124142341313143414223434
+OK BUSICK, REBECCA J                   Senior  A Cass Lake-Bena           2333424122414242153323454411132251313235
+OK SMITH, TYRISAH J                    Senior  A Trek North               1343431*3232*1321**5*4*421321***********
+OK WHITFIELD, BLAZEN                   Senior  A Northome                 1331354121553412355242542113114214133541
+OK SERVIS, CODY                        Senior  A Northome                 2433223132454413223524341414135434513524
+OK WOLDEN, MAVERICK L                  Senior  A Northome                 3335122133333134443542541413122313213444
+OK SWARTZ, ARRYN M                     Senior  A Northome                 2535335321323342352541152111123451223541
+OK POXLEITNER, TREVOR J                Senior  A Kelliher                 1314231551545332111314441413122514113545
+OK MARTIN, SHALISE A                   Senior  A Kelliher                 3323333241322133153425332212222215133221
+OK RENNEMO, CONNER                     Senior  A Kelliher                 1433425521543223514344451113142344513442
+OK BUDZISZEWSKI, SARAH A               Senior  A Tri-County-Karlstad      2223422224241522221542241213122424413211
+OK WEIDENBORNER, JOHNATHAN B           Senior  A Kelliher                 5313431321135242323211541221431424313122
+OK GRUNDMEIER, GLENN A                 Senior  A Kelliher                 1413423223152131235241342313343421313521
+OK WOLLIN, SARA R                      Senior  A Tri-County-Karlstad      1211453234535243323534142433334411323514
+OK TARALA, EMILY M                     Senior  A Greenbush-Middle River   3433223421434122231323442414123133223231
+OK COSS, COREDELL                      Senior  A Cass Lake-Bena           4313223121145412313411542223144414313415
+OK THOMPSON, APACHE S                  Senior  A Cass Lake-Bena           2132512234323214222215333342134251323243
+OK STENBERG, KYLE L                    Senior  A Greenbush-Middle River   1322123324154121324425341333413422223543
+OK GUSTAFSON, TRAVIS R                 Senior  A Greenbush-Middle River   5331534214445142252344231433121253331224
+OK SORENSON, BRANDON M                 Senior  A Greenbush-Middle River   4234435451322343343444242342133124323412
+OK DAVY, AARON                         Senior  A Badger                   3225343144145414125424335424544241452143
+OK BUNKER, CATHERINE R                 Senior  A Mahnomen                 5214435315411314153344242553435254233554
+OK OLSON, ANNIKA E                     Senior  A Laporte                  3345314153323412532414352331142451313315
+OK DOSTAL, SETH                        Senior  A Badger                   1333223422341411221321444333121144323412
+OK MICHON, HUNTER E                    Senior AA Detroit Lakes            2313534221433514321534143233342414543513
+OK FERNANDEZ, YANNIK K                 Senior  A Badger                   2311425425143523122545141413325245353244
+OK HAWK, JANIS                         Senior  A Laporte                  3314334124524413131332543313322425313413
+OK HAMRIN, SADIE B                     Senior AA Bemidji                  2322313331331512321523432323355223211334
+OK KERNS, CAMERON A                    Senior AA Detroit Lakes            2324431224523132145523453342341424523324
+OK HEPPNER, ZACHARIAH J                Senior  A Warroad                  2312451342331344222143442443341444323***
+OK CLEMENTS, JAKE                      Senior  A Menahga                  2333124212545143422534542333141234343123
+OK FICKE ANDERSON, EDGAR W             Senior  A Walker-Hackensack-Akeley 2313142514145323121425441323123242313213
+OK SWANSON, ALEXANDRA                  Senior AA Detroit Lakes            1533531324335211123525535415142444314415
+OK MASSIE, VAUGHN D                    Senior  A Menahga                  2113443113122133421342443213121434313413
+OK MELBERG, BLAKE A                    Senior AA Bemidji                  2323422243112552115543245331351424513514
+OK TEROVIC, ANA                        Senior AA Bemidji                  2321234421542412234525445133144233343134
+OK WEIDENBACH, WYETTE R                Senior AA Detroit Lakes            1135152313553321145544242213451315512311
+OK WALES, RAVEN                        Senior  A Walker-Hackensack-Akeley 1311531252145412131541543334352413535124
+OK BAHL, HUNTER                        Senior AA Bemidji                  4323214544111142121533143323355424513314
+OK BAKKEN, QUINN                       Senior AA Detroit Lakes            4353424222131442311544445333342444423224
+OK LINK, CONNOR T                      Senior  A Walker-Hackensack-Akeley 1512234154332121325532541523343421313413
+OK HOGQUIST, ADAM L                    Senior AA Bemidji                  4313423424341132221512444433224424333214
+OK KUHLMAN, RACHAEL E                  Senior  A Walker-Hackensack-Akeley 2*13241312433232413434443431124534323213
+OK MUSIELEWICZ, ELLIOT J               Senior AA Detroit Lakes            2323514221142532141543524413142414213513
+OK LINK, MICAH K                       Senior  A Walker-Hackensack-Akeley 2314224324332133234531443433342414323112
+OK JERNBERG, JOHANNA N                 Senior AA Detroit Lakes            5313434315531142232524441313431114323154
+OK PERKINS, SETH                       Senior AA Bemidji                  2313424321143112331533253333314414323335
+OK WURDOCK, LUKE C                     Senior  A Menahga                  3314222123233133231523142315325433335454
+OK KERZMAN, JACOB                      Senior AA Detroit Lakes            2333243321441413421542445333345524313214
+OK ALTO, SHEA                          Senior  A Walker-Hackensack-Akeley 4331245221343413214131425112145235113213
+OK ALLEN, TYE                          Senior AA Bemidji                  331322423442211231151*544333324423353323
+OK SAGEN, TAYLOR                       Senior  A Walker-Hackensack-Akeley 12332213134534431413233*2411143221313224
+OK DURANT, JACQUELINE R                Senior  A Mahnomen                 3413413321423132241314241233321423343324
+OK TUNHEIM, CARSON                     Senior AA Detroit Lakes            3314221314343132221544441113143234323334
+OK ANDERSON, ABBIE                     Senior  A Walker-Hackensack-Akeley 1313421324524123532434541211431322353123
+OK HOPEN, DEVIN T                      Senior  A Walker-Hackensack-Akeley 4211234242415223142221313213241342112324
+OK REFSHAW, JESSICA                    Senior  A Mahnomen                 3315534122532113533424341143151242233254
+OK GRINDAHL, ALYSAA                    Senior  A Badger                   11331454525254523132425*1151331234567891
+OK WIDMAN, ZACHARIAH                   Senior  A Walker-Hackensack-Akeley 3335552221143341452224244213333141343412
+OK KRUGER, HALEIGH                     Senior  A Badger                   1112332112133322241434312123142231111*33
+OK KORING, MATTHEW R                   Senior  A Walker-Hackensack-Akeley 1313522422145224133533242313323232313213
+OK KRUGER, SHAYNA                      Senior  A Badger                   5343431223325411342523443333121444423523
+OK SCHOENBORN, LARISSA L               Senior  A Mahnomen                 1313453322441512153544423423125424513311
+OK YOUNG, ADDISYN S                    Senior AA Detroit Lakes            1313423322441112151521343333345424323324
+OK SWIERS, LINDSEY J                   Senior  A Mahnomen                 3414514311143233251544342313341144323354
+OK BISSELL, DEVIN P                    Senior AA Bemidji                  4222422221235112211523554323255423323111
+OK MARTYKKENNEDY, RYAN P               Senior  A Walker-Hackensack-Akeley 4122412221332112311543544333255411323134
+OK MORRISON, JADE                      Senior AA Detroit Lakes            3553521134144222145344323314113432333334
+OK JINGXUAN, HAN                       Senior  A Walker-Hackensack-Akeley 4323342321415542515524545233325431413351
+OK MOORE, ALCE                         Senior  A Mahnomen                 3215124113433352513542445212341322441533
+OK BINKERT, CONNER M                   Senior AA Bemidji                  1513432222545112351523542*23514424353224
+OK FREEMAN, LIBBY A                    Senior  A Walker-Hackensack-Akeley 1313522523424132421543242313133215333322
+OK ROBERTS, JOSEPH S                   Senior AA Bemidji                  43234321425*2132211543445333415421343422
+OK ANDERSON, DALLAS                    Senior  A Menahga                  325324135344131143314254*413354134213234
+OK HEINECKE, SCOTT                     Senior AA Detroit Lakes            2323514314132442131432415123454232121342
+OK JOHNSON, HOGA R                     Senior  A Walker-Hackensack-Akeley 1213343321434452343323142113132251223321
+OK BJERKE, SHELBY L                    Senior AA Bemidji                  3325533153545111331543544333333333333333
+OK EGGEBRAATEN, ISAAC                  Senior AA Detroit Lakes            3323433324342412121524144333214421321333
+OK BERG, KAEDEN                        Senior  A Menahga                  2423221232341214322523443312324314322214
+OK STRANDLIE, CALEB J                  Senior  A Walker-Hackensack-Akeley 23111332214211134325224434134222213*3413
+OK NEPHEW, DANNAH                      Senior AA Detroit Lakes            2212423324323112423514342334142221321223
+OK CHASTEK, TANNER D                   Senior AA Bemidji                  3213231241341132432513444323124434213224
+OK HORSMA, MATHEW L                    Senior  A Menahga                  1222423221343512121544443333325414413322
+OK OVSAK, TRACY                        Senior AA Detroit Lakes            23114233441332224415412423133414144231**
+OK HALVERSON, NAOMIO                   Senior  A Laporte                  4333342225153224142323353213245444351422
+OK WOODARD, LEIANA Y                   Senior AA Detroit Lakes            3323234524422414221513424113155233355334
+OK HIETALA, CHRISTIAN                  Senior  A Badger                   5233421152141423421542344335125231213555
+OK MAKARRAL, LATASHA                   Senior  A Laporte                  2142142313333112223422514433132131423112
+OK KIM, NA YEON                        Senior AA Detroit Lakes            2433142124432422143544241332145243353514
+OK DOSTAL, ISAAC                       Senior  A Badger                   2233134113253123142312423312122314122314
+OK GILBERT, ELENA                      Senior AA Detroit Lakes            5214435211113232152514445333325153355145
+OK ERICKSON, JOANNA S                  Senior  A Badger                   5122331323112213322522315213122314223213
+OK FISCHER, ALICIA B                   Senior AA Bemidji                  3323421351324512113515423413143235213213
+OK DAVY, JARED A                       Senior  A Badger                   3433534242534412113244411513123421325413
+OK SNETSINGER, DANIEL C                Senior  A Mahnomen                 3312243312523222131312422433425223413415
+OK ZAVISKA, PETER G                    Senior AA Thief River Falls        2323421251442142311523345313255444533254
+OK RYBAKOWSKI, MADISON                 Senior  A Badger                   3323244531523321133543441412324421333144
+OK LIDEN, LIAM C                       Senior AA Thief River Falls        2*21431523442542315541442133335414413211
+OK OLSON, DEVAN                        Senior  A Badger                   1333124321252511352324142332145214523534
+OK JOHNSON, ASHTIN                     Senior  A Laporte                  2323233133423433321322234333123234421313
+OK BRANDT, DYLAN                       Senior AA Thief River Falls        1343232312442522311541542412423212513314
+OK NIEMAN, DILLON                      Senior  A Badger                   5323223422544213433544245413442331353333
+OK LARGE, ABBY R                       Senior  A Mahnomen                 3311433112523423314523241313112444323411
+OK SAFRANSKI, JILL N                   Senior AA Thief River Falls        2321434221445142321513442243342414353221
+OK DREHER, ASHLYN M                    Senior  A Aitkin                   3143234124125213512343542113152532555121
+OK HOLTE, GABRIEL W                    Senior AA Thief River Falls        4423221322322414521444243323121414313333
+OK WINTER, EMMARAE                     Senior  A Laporte                  3233443214354312241312321413344424413232
+OK SCHRAMEL, ABIGAIL                   Senior AA Detroit Lakes            3313523421333212313542441233145213435214
+OK TUSLER, AMELIA R                    Senior  A Laporte                  1143234321322314212314332423132231251324
+OK CONNER, COURTNEY                    Senior  A Aitkin                   5134543132134132412342442251324135253235
+OK HANSON, JACOB                       Senior AA Detroit Lakes            5215543114124414132134542212121324553215
+OK CULLEN, ANGELICA M                  Senior AA Thief River Falls        3213134224345412115541341213321234253231
+OK KIRCHNER, MAYCEN D                  Senior AA Detroit Lakes            1223424111435114321541322133421241423141
+OK KRUTA, KATHRYN R                    Senior AA Thief River Falls        1323231531142142235544454335141524313414
+OK JEFFERSON, TERRANCE                 Senior  A Laporte                  2315351423515414133514143343112231231414
+OK EGOROFF, EVDOKAYA M                 Senior  A Fosston                  1523334324344142423143441313121433213423
+OK LEENDERTSEN, KENDRA A               Senior  A Lake Park-Audubon        5314142224113212454145312213141324343311
+OK PROVOST, ELIJAH J                   Senior  A Aitkin                   521342*2224551122115335443332335244*3***
+OK ELHARD, CODY R                      Senior  A Lake Park-Audubon        1213242341341433134534121113322211213132
+OK FROKE, CONNER D                     Senior AA Detroit Lakes            1313543211524114231554442433134321213514
+OK LEAKE, KARRYN J                     Senior AA Thief River Falls        2423134322234112143541441423131244513233
+OK ERICKSON, SHELBY L                  Senior  A Laporte                  3213532112323412221341441313124322313213
+OK TVEIT, KENNA J                      Senior  A Aitkin                   1323533422343452321323341413154241223113
+OK GENZ, RYA T                         Senior AA Detroit Lakes            1313541223445134124541542253442434452343
+OK LUKANEN, JORDAN T                   Senior  A Laporte                  5343542321541541*53325141315425224525231
+OK DAVIS, JOSIE                        Senior AA Thief River Falls        3412423124523112333124353232151511233424
+OK HADRAVA, NATALIE                    Senior  A Laporte                  3413125133421412141342324422123342333232
+OK GARTEN, CAITLYNN                    Senior  A Badger                   3334122313453413452341351313425222243142
+OK GIWOYNA, JERIC R                    Senior AA Detroit Lakes            3413423321345132231432421432121143234213
+OK BOYER, OAKLY J                      Senior  A Aitkin                   3531331324535423531242321545144244452455
+OK JOHANNSEN, DARIN                    Senior  A Laporte                  32344243131241241232351411124*3342312234
+OK BERGLAND, GRACE                     Senior AA Thief River Falls        3341331324531412122143442111141441325414
+OK RHODES, HANNAH                      Senior AA Detroit Lakes            1324231332533214524543541313131245325343
+OK BODENSTEINER, JOSHUA J              Senior  A Fosston                  1315423324445414212242244313122424314312
+OK BIEBERDORF, LAURA E                 Senior AA Bemidji                  5322223325525312425533542333155244213524
+OK CURFMAN, EMILY L                    Senior  A Fosston                  3211533122552211125344422313*22423233514
+OK ANDERSON, AARON                     Senior  A Warroad                  2*434342214*4222323443451413132212333342
+OK BOFFERDING, SARAH C                 Senior AA Bemidji                  1*132*3*21442112134543242312325443213232
+OK SKINNER, ABIGAYLE J                 Senior AA Detroit Lakes            3324533111324113324553242323332242243124
+OK ANDERSON, CURTIS A                  Senior  A Menahga                  4314523211211131514444445414145435113234
+OK EKSTROM, BRENT M                    Senior AA Bemidji                  4321243413322222132543353323143424233224
+OK PELLAND, ASHLEY M                   Senior  A Warroad                  1314253321344222213521142413133431213313
+OK CULLETON, CAITLIN M                 Senior  A Warroad                  3413234311434132312324543213133241333111
+OK HASBARGEN, ALEXANDER J              Senior AA Bemidji                  331453251434254234*513544323325132423312
+OK ANDERSON, OWEN                      Senior  A Menahga                  1233242534142122111144342313151413313115
+OK LYNGAAS, MOLLY A                    Senior AA Detroit Lakes            1313442544143422113544342123124254313513
+OK WURDOCK, ANTHONY                    Senior  A Menahga                  4213424332531234231524312334132*43242545
+OK PURO, HOPE A                        Senior AA Bemidji                  1313434*5314*142111543544323315453233214
+OK SCHILTZ, EMILY                      Senior AA Detroit Lakes            13124412213421434115142523331212444233**
+OK BUNN, TRECHELLE R                   Senior  A Warroad                  1314132124132442242431545411233244411321
+OK LARSON, CHRISTOPHER M               Senior AA Bemidji                  4313451223452512133512441253113213213413
+OK LEWIS, ANGEL E                      Senior  A Warroad                  31335535313233431343*4442113242444313141
+OK MOIS, DYSON                         Senior AA Detroit Lakes            2313414325145152531524342243241523223245
+OK ISAACSON, MARIA L                   Senior  A Menahga                  1514223321325513231515255413332424533424
+OK BEBERG, JEREMY R                    Senior AA Bemidji                  1213233224141412312522442113343424313131
+OK MISKA, DYLAN J                      Senior  A Menahga                  3533223242545113343542145243122444415252
+OK NELMARK, NATALIE A                  Senior AA Detroit Lakes            3232544522144412215513545413135124553112
+OK GROVE, ELIZABETH A                  Senior  A Warroad                  1324232322442242234342343432335324312113
+OK SNELL, NATHAN                       Senior AA Bemidji                  2314*44322542124314533242333433224323234
+OK LAUDERBAUGH, STEPHANIE              Senior AA Bemidji                  141523413242524351*544532212141444313423
+OK FJELD, JONATHAN C                   Senior  A Norman County East       **1****5**1*1*******4**4**33***2*4**3*24
+OK HERSETH, JORDAN R                   Senior  A Grygla                   3413321434533112521344254413145525213525
+OK DEAN, HUDSON                        Senior AA Bemidji                  2424533311332112345243322413352452333134
+OK MONSON, ALAINA                      Senior  A Grygla                   3224434344434413241324342214422314233244
+OK TESCH, TARA L                       Senior AA Bemidji                  231*224122432454315544424333355424322322
+OK BEGG, ERIC                          Senior  A Norman County East       5114424331132441134532145213113243313142
+OK LEFFELMAN, HANNAH                   Senior AA Bemidji                  242353113112111231111114111*341414213111
+OK OLSON, KAITLYN B                    Senior  A Grygla                   3413534352542312135542445412341434213254
+OK HABEDANK, ISAAC A                   Senior  A Norman County East       5213532421543314321342442423321254323123
+OK BOLTON, CHANDLER                    Senior AA Bemidji                  2333241223433121233343443413141244323232
+OK ADAMS, KYLEN C                      Senior AA Bemidji                  2333222423323131324523443411233424323534
+OK MOE, ASHLEY J                       Senior  A Grygla                   1343122411433423221341215211331144323124
+OK STENE, ISAAC                        Senior  A Norman County East       13*5*42221541421432144545232132443323351
+OK PALMER, ALLISON C                   Senior AA Bemidji                  4214543122243112421523243333123411323322
+OK JELLE, TRYSTAN R                    Senior  A Grygla                   5213325524144142231343245413153413323445
+OK SAGEDAHL, JADEN                     Senior  A Norman County East       5413534335453331425332523552132154235152
+OK WRIGHT, BRANDON                     Senior AA Bemidji                  4313523122442434121541344423345424513*24
+OK HICKS, LARA P                       Senior AA Bemidji                  132255241442313221551444333124*433333333
+OK KIESOW, CARLYE L                    Senior  A Grygla                   5231224544353122434424442313324343433333
+OK WHITEHEAD, ELISE C                  Senior  A Lake Park-Audubon        5324431241543412531532142312134521223424
+OK DJONNE, SOPHIA G                    Senior AA Bemidji                  1313431522533212211554144313323424333333
+OK JACOBSON, WILLIAM M                 Senior  A Lake Park-Audubon        1343433313143123214531243312141424222134
+OK NAIG, GRACE E                       Senior AA Bemidji                  3312334324141254221524242313341122413243
+OK MIKALOJCZYK, TERI M                 Senior  A Fosston                  5213233314333213223124343335122223213352
+OK BARDWELL, SIRI A                    Senior AA Bemidji                  1212444321542412331544252315314411513521
+OK NELSON, JACK                        Senior  A Fosston                  1233534443351432135112542332425*32343252
+OK DAVIS, VALERIE                      Senior AA Bemidji                  1253435223541112525525442415122442313314
+OK HAMBLIN, GARRETT                    Senior  A Menahga                  3315213424333523534543145313131244113515
+OK BALSTAD, MARY G                     Senior  A Fosston                  1435123433414241143244325211131423451541
+OK SWANSON, ALEXANDER G                Senior AA Bemidji                  2313223521443412421524542333145424323514
+OK MELAND, AAAYND K                    Senior AA Bemidji                  4333425121413514122352154533331512523512
+OK YANG, AMY                           Senior AA Bemidji                  4112231322423132113443242323131321323322
+OK NGUYEN, LUCY                        Senior  A Badger                   4511232123533212141233345331345434352324
+OK HUBBARD, TESS                       Senior  A Fosston                  2434132314521414415314242332112141313213
+OK CLARK BURNETTE, LUCAS S             Senior  A Mahnomen                 2223554223545322145541144355141533453355
+OK MAURSTAD, AUSTIN W                  Senior  A Badger                   5313344232144213412344351323231424323524
+OK GILSDORF, MEGAN E                   Senior AA Detroit Lakes            1414434211413512225424441413125213323534
+OK ISANE, TYLER R                      Senior  A Badger                   2333153322533413551342123513323442333123
+OK KERSTING, JOHN M                    Senior  A Mahnomen                 1343232423425243124234544315324455423251
+OK UNRUH, BEN P                        Senior AA Detroit Lakes            2332553324434212121524223213345414315113
+OK BRAY, BRYSON W                      Senior AA Thief River Falls        3321124124124112421541342321422533313224
+OK PRASKA, ETHAN A                     Senior  A Badger                   1333143423445112132134343113423514244114
+OK LIEBL, BRADY                        Senior  A Mahnomen                 1232454224133132243541243313333122323323
+OK BRODSHO, CORTNEY                    Senior AA Detroit Lakes            5213*43413454142232544245353453*********
+OK LIU, ERIC                           Senior  A Badger                   4323442221432142111524545*33*3**********
+OK WIGGS, KENDRA R                     Senior AA Thief River Falls        3321332324555532411554443335441214515235
+OK LIMESAND, BROOKE P                  Senior  A Grygla                   4325242213325122151343243312453421323521
+OK LIN, MAGGIE                         Senior  A Laporte                  4123434222133112225543441332222222211111
+OK SELVIG, KAYLA                       Senior AA Thief River Falls        13323223345421124*5542243313445144*135**
+OK HAMANN, KAITLYNDRAE E               Senior  A Badger                   3125323335413341534354242323132251353431
+OK BENNETT, KENNETH M                  Senior  A Laporte                  51351343233424*1225344443431132251353413
+OK SATRE, ALISON K                     Senior  A Grygla                   1132432314142314124341243211143421343123
+OK KLOEHN, ALEX                        Senior  A Laporte                  2313235313142222133225325121342122235333
+OK DIMICH, EMMA                        Senior  A Badger                   1524224241333121324252551133154211251244
+OK VAD, HAILEY A                       Senior  A Grygla                   3433312413354313123241342413122231221223
+OK TAGGART, AUSTIN M                   Senior AA Thief River Falls        2322222222421322321522451232322422323233
+OK BEITO, ASHTYN                       Senior  A Badger                   2543321411243123242241353213412441144313
+OK FRAZER, HOLDEN                      Senior AA Thief River Falls        1543555351511132151544545315125411232222
+OK BERBEICH, TAYLOR S                  Senior  A Grygla                   1544333114423122332331542413123221123431
+OK JAYASANKAR KONDOOR, ACHUTH          Senior AA Bemidji                  1243333242411422251542444451213331344524
+OK WICKSTROM, LUCAS                    Senior  A Aitkin                   5533543221142512141545545343355434313225
+OK BRIARD, ALEXIS V                    Senior  A Lake Park-Audubon        3312133223125155233414341*13331443221*22
+OK LARSON, GUNNAR B                    Senior  A Park Rapids              3313411223443512121541445431141414324512
+OK MILLARD, DUSTIN                     Senior AA Bemidji                  2223444122524112223511343333333334333333
+OK ZICK, JAMES M                       Senior  A Lake Park-Audubon        1334341125313442231524441325125135413214
+OK EYSTAD, SAMUEL J                    Senior  A Park Rapids              5443425221451512132541342423355244353511
+OK ANDERSON, JACOB C                   Senior  A Lake Park-Audubon        2341341411311332242542141331145423233142
+OK JACOBI, ADAM M                      Senior  A Park Rapids              1224334434132145152544442311131*22433553
+OK HANSEN, CARTER                      Senior AA Bemidji                  1113522431442532211414343353321344223314
+OK FISCHER, OLIVIA N                   Senior  A Park Rapids              5413334352443312341512443311134243233213
+OK FONTAINE, JAKE A                    Senior  A Badger                   5413523253522152322513543355331444453414
+OK MULLER, JONAH                       Senior AA Bemidji                  1323524222124432323543252223142523323524
+OK GRANDE, RACHEL L                    Senior  A Lake Park-Audubon        122344122434221224154425*313435524413213
+OK HUESMAN, BRIANNE E                  Senior  A Lake Park-Audubon        13122323*1344112234441342313121313323213
+OK BERG, ISAAC                         Senior AA Bemidji                  3213421221144212132533343421132443323233
+OK MCMURRAY, SAMANTHA L                Senior  A Aitkin                   32124213221443131*3433343212132241333143
+OK BAGSTAD, ISABEL M                   Senior  A Park Rapids              1134524121431322415521442423413213343312
+OK MAGELKY, SAMANTHA R                 Senior  A Lake Park-Audubon        132133425315124242454454341533525522343*
+OK ARNOLD, SAIGE E                     Senior  A Aitkin                   1254532223535313133423445312333225235245
+OK KANTONEN, LYDIA M                   Senior  A Park Rapids              2323431522421512322544443315325424224313
+OK CARLS, AARON                        Senior AA Bemidji                  3223424323421123231514443434431424523353
+OK KARSIKO, DARIEN                     Senior  A Badger                   1413251324535115535524444422135424313254
+OK GREEN, TYRAH C                      Senior  A Badger                   1233154522121312151341545113145531213514
+OK THOMPSON, ELIZABETH C               Senior AA Bemidji                  1341433212222412313522553313132414323323
+OK LEININGER, RILEIGH A                Senior  A Lake Park-Audubon        1244545114534112114142441112455223515314
+OK COFER, KOBEY L                      Senior  A Walker-Hackensack-Akeley 3313542321532112345544252334345454413511
+OK EICHSTADT, SHELBY                   Senior AA Bemidji                  1323432351523142155543342413332242413421
+OK HENDRICKSON, CHRISTINE              Senior  A Norman County East       1423513244432412453344243313122251423435
+OK WESTERLUND, ANNA                    Senior  A Badger                   4133522323422112322143323413143222513332
+OK NORDBY, JULIANNE K                  Senior  A Grygla                   4513325314323311241344542432314421353453
+
+331 students processed.
+
+0 student records contain one or more errors.
+

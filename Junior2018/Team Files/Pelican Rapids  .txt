@@ -1,0 +1,9 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Pelican Rapids                 Team Base Count: 60            Team Score: 601515 |   5   |
+-----------------------------------------------------------------------------------------|
+Pelican Rapids                 JULIAN          ZAVALAGUNDERSON      26    260606 |   5   |
+Pelican Rapids                 LILY            WILLIAMS             18    180505 |  33   |
+Pelican Rapids                 SAMUEL          MOE                  16    160404 |  74   |
+Pelican Rapids                 RACHAEL         GULER                15    150303 | 113   |
+Pelican Rapids                 ELLA            BACKSTROM            15    150203 | 118   |

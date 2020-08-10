@@ -1,0 +1,30 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Bemidji                        Team Base Count: 92            Team Score: 922324 |   1   |
+-----------------------------------------------------------------------------------------|
+Bemidji                        JAMES           SIEMS                33    330809 |   1   |
+Bemidji                        MYA             SHORTER              32    320809 |   2   |
+Bemidji                        RACHEL          HARRIS               27    270706 |   8   |
+Bemidji                        JOSEPH          ROWLAND              27    270507 |  15   |
+Bemidji                        CHRISTIAN       FETTIG               26    260308 |  20   |
+Bemidji                        GWENDOLINE      YOUSO                25    250706 |  23   |
+Bemidji                        MORGAN          DOUGLAS              25    250407 |  28   |
+Bemidji                        KATRINA         EVENWOLL             24    240607 |  30   |
+Bemidji                        BODERIK         THORSON              23    230406 |  46   |
+Bemidji                        GRACE           CARLS                22    220604 |  48   |
+Bemidji                        MAGGIE          BROWN                22    220405 |  55   |
+Bemidji                        KAITLYN         TENNYSON             22    220306 |  56   |
+Bemidji                        LAUA            THOMPSON             22    220207 |  57   |
+Bemidji                        DALTON          HEGG                 21    210505 |  62   |
+Bemidji                        MARGARET        SNYDER               21    210406 |  70   |
+Bemidji                        JULIA           KLISCH               20    200406 |  86   |
+Bemidji                        NICHOLAS        GEIGER               20    200405 |  88   |
+Bemidji                        ALYSSA          KOEBKE               19    190505 | 101   |
+Bemidji                        MAKENNA         CARLSON              19    190406 | 104   |
+Bemidji                        LAURA           DAVIS                19    190405 | 107   |
+Bemidji                        SUMMER          CROW                 18    180401 | 128   |
+Bemidji                        AERIS           DINKEL               18    180205 | 134   |
+Bemidji                        DEMICHAEL       MUELLER              17    170504 | 135   |
+Bemidji                        EMILY           SKIME                17    170404 | 142   |
+Bemidji                        TAYLOR          SHRIVER              17    170304 | 148   |
+Bemidji                        CHASE           MOCK                 10    100203 | 262   |

@@ -1,0 +1,17 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Climax                         Team Base Count: 45            Team Score: 451109 |  21   |
+-----------------------------------------------------------------------------------------|
+Climax                         COURTNEY        VATNSDAL             18    180504 |  36   |
+Climax                         AYDEN           SLYT                 14    140202 | 152   |
+Climax                         KAEDIN          BACKEN               13    130403 | 157   |
+Climax                         ANNABELLE       SMITH                13    130204 | 173   |
+Climax                         KAELA           CARDINAL             12    120403 | 191   |
+Climax                         CHLOE           ALCOZER              12    120302 | 200   |
+Climax                         MARIE           THORESON             9     90300  | 278   |
+Climax                         ERIN            RICKLEFS             9     90201  | 286   |
+Climax                         HALEIGH         RAYMOND              9     90201  | 287   |
+Climax                         NO_LAST_NAME    AI                   9     90102  | 292   |
+Climax                         ELLA            WALTERS              8     80301  | 298   |
+Climax                         JAQALA          AMADOR               7     70301  | 313   |
+Climax                         KAYLEE          COOK                 7     70201  | 319   |

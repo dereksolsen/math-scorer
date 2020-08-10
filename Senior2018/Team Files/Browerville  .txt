@@ -1,0 +1,9 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Browerville                    Team Base Count: 47            Team Score: 470610 |  13   |
+-----------------------------------------------------------------------------------------|
+Browerville                    CHRISTIAN       SUTLIEF              21    210205 |  19   |
+Browerville                    DANIEL          THOMPSON             13    130203 | 136   |
+Browerville                    LAUREN          STORMOEN             13    130202 | 137   |
+Browerville                    KAYLEE          ESTERBERG            11    110303 | 182   |
+Browerville                    CHING_CHIH      YU                   10    100401 | 206   |

@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Lake Park-Audubon              Team Base Count: 52            Team Score: 521111 |  12   |
+-----------------------------------------------------------------------------------------|
+Lake Park-Audubon              CAROLINE        GRANDE               20    200603 |  21   |
+Lake Park-Audubon              JADEN           WILLETTE             16    160305 |  81   |
+Lake Park-Audubon              ASHLEY          FULLERTON            16    160203 |  92   |
+Lake Park-Audubon              IZZY            OLSON                14    140205 | 140   |

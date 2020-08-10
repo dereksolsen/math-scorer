@@ -1,0 +1,21 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Crosby-Ironton                 Team Base Count: 64            Team Score: 641513 |   4   |
+-----------------------------------------------------------------------------------------|
+Crosby-Ironton                 ALEX            SCHMIDTDT            22    220504 |  12   |
+Crosby-Ironton                 ALANA           BENDSON              21    210603 |  15   |
+Crosby-Ironton                 JOSIE           PARKS                21    210406 |  17   |
+Crosby-Ironton                 HAYLEE          HANSON               19    190603 |  27   |
+Crosby-Ironton                 DAID            RINGHAND             19    190405 |  30   |
+Crosby-Ironton                 EVELYN          WATSON               17    170504 |  53   |
+Crosby-Ironton                 NATALJA         TAUZELL              16    160401 |  77   |
+Crosby-Ironton                 KARLI           NIXON                16    160306 |  79   |
+Crosby-Ironton                 NICHOLAS        YEAGER               16    160304 |  85   |
+Crosby-Ironton                 LILY            HABIGHORST           16    160303 |  88   |
+Crosby-Ironton                 LANDON          ERICKSON             16    160204 |  91   |
+Crosby-Ironton                 ADAM            CADY                 14    140306 | 131   |
+Crosby-Ironton                 ISABELLA        SABLAN               14    140203 | 149   |
+Crosby-Ironton                 LILY            PETERSON             14    140202 | 150   |
+Crosby-Ironton                 MORGAN          LEBLANC              13    130103 | 180   |
+Crosby-Ironton                 JULIANNA        CAMACHO              11    110201 | 239   |
+Crosby-Ironton                 MCKENZIE        MCLEAN               9     90101  | 293   |

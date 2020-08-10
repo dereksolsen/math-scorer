@@ -1,0 +1,26 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Walker-Hackensack-Akeley       Team Base Count: 49            Team Score: 491006 |  11   |
+-----------------------------------------------------------------------------------------|
+Walker-Hackensack-Akeley       THOMAS          HANSEN               17    170503 |  44   |
+Walker-Hackensack-Akeley       JENSEN          RICE                 16    160300 |  72   |
+Walker-Hackensack-Akeley       ELLIOT          JOHNSON              16    160203 |  76   |
+Walker-Hackensack-Akeley       RACHEL          PITT                 15    150403 |  83   |
+Walker-Hackensack-Akeley       WILLOW          DAMA                 15    150302 |  89   |
+Walker-Hackensack-Akeley       BRODY           BUTCHER              15    150003 |  96   |
+Walker-Hackensack-Akeley       CONNOR          CRAVEN               14    140301 | 109   |
+Walker-Hackensack-Akeley       JACOB           RADKE                14    140203 | 111   |
+Walker-Hackensack-Akeley       TANNER          RIVARD               14    140104 | 116   |
+Walker-Hackensack-Akeley       JASMINE         MOORE                12    120302 | 156   |
+Walker-Hackensack-Akeley       KLOHIE          MANKIE               12    120300 | 159   |
+Walker-Hackensack-Akeley       BRIANNA         RADDATZ              12    120101 | 175   |
+Walker-Hackensack-Akeley       TYLER           SEA                  11    110201 | 193   |
+Walker-Hackensack-Akeley       CONNOR          GNOINSKYNOINSKY      11    110200 | 194   |
+Walker-Hackensack-Akeley       MOLLY           MASSAR               10    100103 | 225   |
+Walker-Hackensack-Akeley       JUSTINE         DAY                  10    100102 | 227   |
+Walker-Hackensack-Akeley       BAYLOR          SHORT                9     90202  | 238   |
+Walker-Hackensack-Akeley       HEIDI           JOHNSON              9     90202  | 239   |
+Walker-Hackensack-Akeley       EDWARD          HARAPAT              8     80202  | 259   |
+Walker-Hackensack-Akeley       MINOUNG         PARK                 8     80201  | 261   |
+Walker-Hackensack-Akeley       TREVOR          JOHNSON              8     80001  | 267   |
+Walker-Hackensack-Akeley       ETHAN           ANDERSON             8     80001  | 268   |

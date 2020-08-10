@@ -1,0 +1,19 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Aitkin                         Team Base Count: 57            Team Score: 571614 |   6   |
+-----------------------------------------------------------------------------------------|
+Aitkin                         JACOB           STANLEY              21    210605 |  14   |
+Aitkin                         BENJAMIN        HARRIS               18    180604 |  32   |
+Aitkin                         JEZRIL          HOUSER               18    180405 |  40   |
+Aitkin                         ALAN            GRUHLKE              16    160304 |  86   |
+Aitkin                         EMMA            THOMPSON             16    160203 |  93   |
+Aitkin                         LEAH            DUFFNEY              14    140403 | 125   |
+Aitkin                         CONNOR          ROSE                 14    140304 | 133   |
+Aitkin                         BAILEY          REISEWITZ            14    140303 | 137   |
+Aitkin                         LIZZY           KLINGHAGEN           12    120402 | 193   |
+Aitkin                         NYSSA           SCHULTZB             12    120304 | 196   |
+Aitkin                         SAMANTHA        THOMPSON             11    110201 | 238   |
+Aitkin                         MADILYN         MODTLAND             10    100001 | 267   |
+Aitkin                         TANNER          WOLD                 9     90301  | 275   |
+Aitkin                         ANNABEL         MOCK                 7     70203  | 315   |
+Aitkin                         AIESHA          ALARAB               2     20200  | 334   |

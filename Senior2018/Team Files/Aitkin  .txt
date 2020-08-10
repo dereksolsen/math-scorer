@@ -1,0 +1,11 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Aitkin                         Team Base Count: 40            Team Score: 400907 |  21   |
+-----------------------------------------------------------------------------------------|
+Aitkin                         BRETT           BOSSERMAN            15    150402 |  84   |
+Aitkin                         ANNE            COURTEMANCHE         13    130203 | 135   |
+Aitkin                         KARLY           SHERECK              12    120302 | 152   |
+Aitkin                         CASEY           AVENALL              12    120203 | 162   |
+Aitkin                         SAMANTHA        TURNER               11    110104 | 197   |
+Aitkin                         TIMOTHY         SCHWIETZ             10    100401 | 205   |
+Aitkin                         KENDRA          GRUHLKE              7     70002  | 279   |

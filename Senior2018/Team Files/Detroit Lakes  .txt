@@ -1,0 +1,15 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Detroit Lakes                  Team Base Count: 69            Team Score: 691115 |   2   |
+-----------------------------------------------------------------------------------------|
+Detroit Lakes                  JACOB           BERGSTROM            26    260505 |   2   |
+Detroit Lakes                  TANNER          OLSON                23    230505 |   6   |
+Detroit Lakes                  AARON           OAKES                20    200105 |  25   |
+Detroit Lakes                  ZACHERY         SHOEMAKER            19    190502 |  27   |
+Detroit Lakes                  PHILIP          HINRICHS             19    190306 |  32   |
+Detroit Lakes                  GIGI            NI                   18    180403 |  37   |
+Detroit Lakes                  ERIC            KALLSTROM            15    150303 |  86   |
+Detroit Lakes                  ANNA            CIHAK                14    140303 | 105   |
+Detroit Lakes                  ASHLEY          MUHLENKORT           14    140102 | 118   |
+Detroit Lakes                  GRACE           VANOFFELEN           13    130303 | 126   |
+Detroit Lakes                  SARAH           KRENGEL              10    100301 | 212   |

@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Tri-County-Karlstad            Team Base Count: 46            Team Score: 461108 |  20   |
+-----------------------------------------------------------------------------------------|
+Tri-County-Karlstad            PETER           KAUTZMAN             16    160303 |  87   |
+Tri-County-Karlstad            BRADYN          SWENSON              15    150403 | 102   |
+Tri-County-Karlstad            JASMINE         NORBERG              15    150402 | 105   |
+Tri-County-Karlstad            TREY            TAYLOR               14    140303 | 135   |
+Tri-County-Karlstad            ANTON           BUDZISZEWSKI         13    130401 | 159   |
+Tri-County-Karlstad            RILEY           DURAY                12    120302 | 203   |
+Tri-County-Karlstad            TORI            PETERSON             11    110303 | 225   |
+Tri-County-Karlstad            JAZZY           WALZ                 8     80100  | 309   |

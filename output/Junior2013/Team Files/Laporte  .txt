@@ -1,0 +1,10 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Laporte                        Team Base Count: 53            Team Score: 531414 |  19   |
+-----------------------------------------------------------------------------------------|
+Laporte                        ZOEY            DETMERS              25    250707 |  21   |
+Laporte                        HANNAH          KAHLSTORF            18    180306 | 130   |
+Laporte                        REID            SCHROM               10    100401 | 257   |
+Laporte                        WYATT           MOLASH               9     90201  | 279   |
+Laporte                        SMITH           CAMRYN               7     70001  | 295   |
+Laporte                        BONNIE          ZAMORA               7     70000  | 296   |

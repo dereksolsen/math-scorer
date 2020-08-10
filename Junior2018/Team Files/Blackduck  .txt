@@ -1,0 +1,24 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Blackduck                      Team Base Count: 55            Team Score: 551412 |   8   |
+-----------------------------------------------------------------------------------------|
+Blackduck                      DARIUS          HARO                 20    200305 |  24   |
+Blackduck                      KYLE            EVANS                18    180504 |  37   |
+Blackduck                      JACOB           FORSEEN              17    170603 |  52   |
+Blackduck                      KENNA           COOK                 17    170404 |  58   |
+Blackduck                      GRACE           ZALESKI              16    160505 |  68   |
+Blackduck                      ETHAN           MERRILL              16    160405 |  73   |
+Blackduck                      JORDAN          REEVES               15    150604 |  97   |
+Blackduck                      SAIGE           KOHMAN               13    130303 | 163   |
+Blackduck                      DAYNE           SAVICH               13    130303 | 165   |
+Blackduck                      KES             EGGERT               13    130302 | 166   |
+Blackduck                      MALORI          BURMEISTER           13    130205 | 171   |
+Blackduck                      CALLISTA        POXLEITNER           12    120305 | 195   |
+Blackduck                      HANNA           MICAH                12    120302 | 201   |
+Blackduck                      QUINN           MCKEEMAN             12    120204 | 209   |
+Blackduck                      JASTYN          RODGERS              12    120204 | 206   |
+Blackduck                      KAYTLIN         HAIBY                12    120203 | 212   |
+Blackduck                      CALVIN          BLOOMQUIST           11    110102 | 247   |
+Blackduck                      SERENITY        MARTHALER            9     90300  | 277   |
+Blackduck                      KAMIANNA        DIEHL                9     90105  | 291   |
+Blackduck                      LAUREN          WEST                 8     80301  | 299   |

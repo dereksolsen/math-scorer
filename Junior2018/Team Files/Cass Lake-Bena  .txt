@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Cass Lake-Bena                 Team Base Count: 46            Team Score: 460816 |  18   |
+-----------------------------------------------------------------------------------------|
+Cass Lake-Bena                 EDMUND          WILLIAMS             17    170306 |  62   |
+Cass Lake-Bena                 MATIC           WAKANABO             15    150305 | 107   |
+Cass Lake-Bena                 MACKENZIE       STOEBNER             14    140205 | 141   |
+Cass Lake-Bena                 RACHEL          LUETH                12    120503 | 184   |
+Cass Lake-Bena                 JOEL            MITCHELL             12    120303 | 197   |
+Cass Lake-Bena                 NIKOLAII        OLSON                12    120301 | 204   |
+Cass Lake-Bena                 JOHANNA         WESTLUND             10    100003 | 266   |
+Cass Lake-Bena                 KAILEE          FINEDAY              8     80102  | 307   |

@@ -1,0 +1,30 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Walker-Hackensack-Akeley       Team Base Count: 73            Team Score: 731420 |   7   |
+-----------------------------------------------------------------------------------------|
+Walker-Hackensack-Akeley       JENSEN          RICE                 27    270508 |  13   |
+Walker-Hackensack-Akeley       EDWARD          SWANSON              25    250407 |  27   |
+Walker-Hackensack-Akeley       EDDIE           HARAPAT              21    210505 |  64   |
+Walker-Hackensack-Akeley       BRIANNA         RADDATZ              21    210504 |  65   |
+Walker-Hackensack-Akeley       KLOHIE          MANKIE               21    210408 |  66   |
+Walker-Hackensack-Akeley       TYLER           SEA                  21    210307 |  76   |
+Walker-Hackensack-Akeley       REBECCA         LLOYD                20    200507 |  79   |
+Walker-Hackensack-Akeley       BOYSEN          OLSON                20    200506 |  80   |
+Walker-Hackensack-Akeley       LOGAN           WALES                20    200505 |  83   |
+Walker-Hackensack-Akeley       MATTHEW         THOMPON              20    200306 |  92   |
+Walker-Hackensack-Akeley       WILLOW          DAMAR                20    200305 |  93   |
+Walker-Hackensack-Akeley       ELLIOT          JOHNSON              19    190505 |  99   |
+Walker-Hackensack-Akeley       BREANNA         HOLT                 19    190308 | 111   |
+Walker-Hackensack-Akeley       BAYLOR          SHORT                18    180504 | 118   |
+Walker-Hackensack-Akeley       AMELIA          EMERY                16    160205 | 169   |
+Walker-Hackensack-Akeley       KIRA            LOOP                 16    160107 | 171   |
+Walker-Hackensack-Akeley       AUTUMN          STEIN                15    150503 | 172   |
+Walker-Hackensack-Akeley       JASMINE         MOORE                15    150403 | 178   |
+Walker-Hackensack-Akeley       PATRICK         SHEAREN              15    150205 | 190   |
+Walker-Hackensack-Akeley       BENJAMIN        STRANDLIE            15    150105 | 196   |
+Walker-Hackensack-Akeley       KARLY           JOHNSON              14    140205 | 212   |
+Walker-Hackensack-Akeley       BRODY           BUTCHER              13    130304 | 219   |
+Walker-Hackensack-Akeley       SARA            ARTLEY               10    100502 | 254   |
+Walker-Hackensack-Akeley       MOLLY           MASSAR               9     90203  | 274   |
+Walker-Hackensack-Akeley       STEVEN          HAUSKEN              9     90202  | 276   |
+Walker-Hackensack-Akeley       JESSICA         SCHMIDTKE            6     60002  | 302   |

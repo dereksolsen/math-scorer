@@ -1,0 +1,15 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Detroit Lakes                  Team Base Count: 80            Team Score: 802022 |   3   |
+-----------------------------------------------------------------------------------------|
+Detroit Lakes                  GIGI            NI                   29    290707 |   4   |
+Detroit Lakes                  JACOB           BERGSTROM            27    270708 |   7   |
+Detroit Lakes                  SARAH           KRENGEL              24    240607 |  31   |
+Detroit Lakes                  CHARLES         BARNETT              22    220506 |  50   |
+Detroit Lakes                  MARK            OLSON                21    210405 |  71   |
+Detroit Lakes                  SHELBY          BUSKER               20    200306 |  91   |
+Detroit Lakes                  DOYEON          KIM                  20    200305 |  94   |
+Detroit Lakes                  ANNA            CIHAK                17    170404 | 140   |
+Detroit Lakes                  JOSEPH          ECKMAN               17    170305 | 147   |
+Detroit Lakes                  ASHLEY          MUHLENKORT           17    170303 | 151   |
+Detroit Lakes                  TUCKER          STRAWSELL            13    130404 | 216   |

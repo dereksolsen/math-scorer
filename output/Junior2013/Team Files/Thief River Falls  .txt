@@ -1,0 +1,14 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Thief River Falls              Team Base Count: 86            Team Score: 862022 |   2   |
+-----------------------------------------------------------------------------------------|
+Thief River Falls              DAVID           MILLER               30    300807 |   3   |
+Thief River Falls              CINDY           LI                   29    290608 |   5   |
+Thief River Falls              COLE            TAGGART              27    270607 |   9   |
+Thief River Falls              ALEXA           ROGALLA              27    270509 |  10   |
+Thief River Falls              KYRI            CHRISTENSEN          27    270508 |  11   |
+Thief River Falls              COOPER          OLSONAWSKI           23    230408 |  43   |
+Thief River Falls              ABBY            PURCELL              21    210407 |  67   |
+Thief River Falls              TYIER           HOULE                18    180404 | 126   |
+Thief River Falls              CIERA           KOTASKA              16    160305 | 165   |
+Thief River Falls              YASMINE         GAYDEN               9     90201  | 280   |

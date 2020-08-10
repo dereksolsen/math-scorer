@@ -1,0 +1,14 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Barnesville                    Team Base Count: 68            Team Score: 681214 |   2   |
+-----------------------------------------------------------------------------------------|
+Barnesville                    SAMANTHA        PASSA                25    250406 |   7   |
+Barnesville                    COURTNEY        GLYNN                23    230406 |  10   |
+Barnesville                    SIDNEY          AHLES                20    200402 |  23   |
+Barnesville                    ASHTON          HOEFT                18    180405 |  41   |
+Barnesville                    ALLIE           AADLAND              17    170405 |  56   |
+Barnesville                    LIV             BRASEL               17    170305 |  64   |
+Barnesville                    JORDEN          THUNE                16    160503 |  71   |
+Barnesville                    ALEX            HAMMAN               15    150502 |  99   |
+Barnesville                    KIMBERLY        MAESSE               13    130302 | 167   |
+Barnesville                    LAUREN          HALVERSON            13    130301 | 170   |

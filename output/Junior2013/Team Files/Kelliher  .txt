@@ -1,0 +1,24 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Kelliher                       Team Base Count: 64            Team Score: 641119 |  13   |
+-----------------------------------------------------------------------------------------|
+Kelliher                       FRANK           LAETITIA             23    230505 |  41   |
+Kelliher                       TAYLER          NEFT                 22    220406 |  52   |
+Kelliher                       RILEY           GILGE                19    190208 | 116   |
+Kelliher                       JAYCE           MOSTAD               18    180504 | 117   |
+Kelliher                       KELLY           LYNN                 18    180404 | 127   |
+Kelliher                       DEREK           JORGENSEN            16    160405 | 158   |
+Kelliher                       MERCEDES        WALDO                15    150404 | 175   |
+Kelliher                       SHANELLE        HEAD                 15    150304 | 183   |
+Kelliher                       HANNAH          NEWBERRY             14    140505 | 198   |
+Kelliher                       KRISTINA        LOSSINGA             13    130401 | 218   |
+Kelliher                       BRANSON         HECK                 11    110102 | 252   |
+Kelliher                       TRIANN          KREKELBERG           10    100302 | 260   |
+Kelliher                       CYNTHIA         NELSON               9     90502  | 269   |
+Kelliher                       KALEIGHA        DONNELL              9     90302  | 272   |
+Kelliher                       ERICA           KINGBIRD             9     90204  | 273   |
+Kelliher                       JOSEPHINE       SAVICH               9     90203  | 275   |
+Kelliher                       BRADLEY         BARRETT              9     90103  | 281   |
+Kelliher                       TERRA           SCHUHDIETRICH        8     80301  | 285   |
+Kelliher                       SIDNEY          KINGBIRD             6     60301  | 298   |
+Kelliher                       KELSIE          DONNELL              6     60201  | 299   |

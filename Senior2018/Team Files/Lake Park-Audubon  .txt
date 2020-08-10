@@ -1,0 +1,14 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Lake Park-Audubon              Team Base Count: 59            Team Score: 591211 |   7   |
+-----------------------------------------------------------------------------------------|
+Lake Park-Audubon              SYDNEY          PORTER               22    220504 |  10   |
+Lake Park-Audubon              ELISE           GRABINGER            19    190304 |  34   |
+Lake Park-Audubon              MORGAN          KRUGER               18    180403 |  38   |
+Lake Park-Audubon              ETTA            MIOSEK               15    150301 |  90   |
+Lake Park-Audubon              KEVIN           BJORGAN              14    140202 | 114   |
+Lake Park-Audubon              SHADAISA        STALBERGER           14    140104 | 117   |
+Lake Park-Audubon              ALEXIS          LEININGER            13    130403 | 120   |
+Lake Park-Audubon              MORGAN          NELSON               13    130203 | 134   |
+Lake Park-Audubon              CALEB           NOEL                 13    130201 | 139   |
+Lake Park-Audubon              KAY             PEDERSON             7     70101  | 275   |

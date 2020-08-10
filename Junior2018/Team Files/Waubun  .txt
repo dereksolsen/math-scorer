@@ -1,0 +1,30 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Waubun                         Team Base Count: 47            Team Score: 471211 |  17   |
+-----------------------------------------------------------------------------------------|
+Waubun                         NOAH            SCHNECK              18    180404 |  43   |
+Waubun                         BELLECOURT      MARVIN               15    150404 | 101   |
+Waubun                         KATIE           REICH                14    140403 | 126   |
+Waubun                         CLARK           LODEN                13    130404 | 154   |
+Waubun                         ELAYNA          TOCZEK               13    130303 | 161   |
+Waubun                         ALAYNA          GARY                 13    130303 | 164   |
+Waubun                         VINCENT         PICKETT              12    120503 | 183   |
+Waubun                         WESTON          LEHRKE               12    120502 | 186   |
+Waubun                         AYVA            JACKSON              12    120403 | 192   |
+Waubun                         SAM             ZIMA                 12    120205 | 205   |
+Waubun                         RYLEE           MCARTHUR             12    120204 | 210   |
+Waubun                         CARSON          ZIMA                 12    120202 | 215   |
+Waubun                         KYLA            DONNER               11    110403 | 220   |
+Waubun                         SOPHIE          ROJAS                11    110203 | 235   |
+Waubun                         NEEGONEE        BURNETT              10    100202 | 260   |
+Waubun                         CHELSEA         KOLOGI               10    100202 | 257   |
+Waubun                         DOMINIC         BEVINS               10    100201 | 262   |
+Waubun                         JOSEPH          BEIIAN               10    100103 | 265   |
+Waubun                         KENDRICK        WAIKER               9     90501  | 268   |
+Waubun                         TANNER          PAZDERNIK            9     90305  | 271   |
+Waubun                         SUNSHINE        ENGLUND              9     90202  | 284   |
+Waubun                         KATELYNN        KEEZER               9     90200  | 289   |
+Waubun                         MARK            BUNKER               7     70202  | 316   |
+Waubun                         SAMUAL          BELLANGER            7     70201  | 317   |
+Waubun                         BEAU            HOBAN                6     60201  | 327   |
+Waubun                         ELIAS           LOWRY                5     50200  | 331   |

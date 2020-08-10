@@ -1,0 +1,27 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Bemidji                        Team Base Count: 83            Team Score: 832215 |   1   |
+-----------------------------------------------------------------------------------------|
+Bemidji                        HAYDEN          HOMMES               29    290706 |   1   |
+Bemidji                        RYAN            RAUTIO               28    280805 |   2   |
+Bemidji                        COLT            UHLENHOPP            26    260704 |   4   |
+Bemidji                        CALEB           MCSHANE              25    250408 |   6   |
+Bemidji                        ASHLEY          MAKI                 24    240605 |   8   |
+Bemidji                        TATIANNA        FALK                 24    240505 |   9   |
+Bemidji                        PAUL            LOUVAR               22    220404 |  13   |
+Bemidji                        ZANE            HILLER               21    210404 |  18   |
+Bemidji                        AARON           HEGER                21    210206 |  20   |
+Bemidji                        CASEY           HILLER               19    190605 |  26   |
+Bemidji                        ABIGAIL         JOHNSON              19    190504 |  28   |
+Bemidji                        SAMUEL          MUTNANSKY            18    180403 |  44   |
+Bemidji                        CADEN           BOLTE                18    180205 |  50   |
+Bemidji                        COLTER          CLEMENT              18    180104 |  51   |
+Bemidji                        CHARLES         MCCALIP              17    170502 |  55   |
+Bemidji                        GAVIN           MEISSNER             16    160504 |  70   |
+Bemidji                        PAULO           TINSAY               16    160103 |  96   |
+Bemidji                        KAYLA           HENRICKSON           15    150305 | 108   |
+Bemidji                        GAVIN           KESTNER              14    140404 | 124   |
+Bemidji                        DAKOTAH         CANTY                14    140403 | 127   |
+Bemidji                        STEPHANIE       JUDD                 13    130204 | 174   |
+Bemidji                        JONNAHAN        QUANDT               12    120201 | 216   |
+Bemidji                        GRACE           GREINER              11    110203 | 234   |

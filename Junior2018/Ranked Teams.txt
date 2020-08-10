@@ -1,0 +1,29 @@
+School                         Class |Base Score     |Score   |Place   |Place In Class|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bemidji                            AA|             83|  832215|       1|             1|
+Barnesville                         A|             68|  681214|       2|             1|
+Greenbush-Middle River              A|             65|  651513|       3|             2|
+Crosby-Ironton                      A|             64|  641513|       4|             3|
+Pelican Rapids                      A|             60|  601515|       5|             4|
+Aitkin                              A|             57|  571614|       6|             5|
+Verndale                            A|             56|  561116|       7|             6|
+Blackduck                           A|             55|  551412|       8|             7|
+Park Rapids                         A|             55|  550911|       9|             8|
+Laporte                             A|             54|  541215|      10|             9|
+Walker-Hackensack-Akeley            A|             54|  541511|      11|            10|
+Lake Park-Audubon                   A|             52|  521111|      12|            11|
+Badger                              A|             51|  511111|      13|            12|
+Kelliher                            A|             51|  510914|      14|            13|
+Bagley                              A|             49|  491408|      15|            14|
+Kittson Central                     A|             49|  490813|      16|            15|
+Waubun                              A|             47|  471211|      17|            16|
+Cass Lake-Bena                      A|             46|  460816|      18|            17|
+Mahnomen                            A|             46|  460912|      19|            18|
+Tri-County-Karlstad                 A|             46|  461108|      20|            19|
+Climax                              A|             45|  451109|      21|            20|
+Roseau                              A|             44|  440811|      22|            21|
+Indus                               A|             41|  411008|      23|            22|
+Trek North                          A|             41|  411208|      24|            23|
+Grygla                              A|             36|  360807|      25|            24|
+Browerville                         A|             31|  310905|      26|            25|
+Detroit Lakes                      AA|             14|  140203|      27|             2|

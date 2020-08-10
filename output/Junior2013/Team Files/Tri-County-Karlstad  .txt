@@ -1,0 +1,10 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Tri-County-Karlstad            Team Base Count: 50            Team Score: 501019 |  21   |
+-----------------------------------------------------------------------------------------|
+Tri-County-Karlstad            STEVO           MURRAY               18    180306 | 131   |
+Tri-County-Karlstad            HAILEY          BARTH                16    160406 | 156   |
+Tri-County-Karlstad            JADE            SPILDE               16    160307 | 161   |
+Tri-County-Karlstad            ALAYNA          PETERSON             13    130404 | 215   |
+Tri-County-Karlstad            HAILLEY         ANDERSON             10    100104 | 268   |
+Tri-County-Karlstad            TUCKER          HANSON               3     30101  | 307   |

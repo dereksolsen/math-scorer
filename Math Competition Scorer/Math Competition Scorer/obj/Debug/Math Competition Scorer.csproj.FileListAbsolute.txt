@@ -1,0 +1,38 @@
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.exe.config
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.exe
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.pdb
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csprojResolveAssemblyReference.cache
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.form1.resources
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Properties.Resources.resources
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csproj.GenerateResource.Cache
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csproj.CoreCompileInputs.cache
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.exe
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.pdb
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Individual_Student.resources
+C:\Users\csdolsen\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.How_To_Use.resources
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.exe.config
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.exe
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.pdb
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csprojAssemblyReference.cache
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.form1.resources
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.How_To_Use.resources
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Individual_Student.resources
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Properties.Resources.resources
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csproj.GenerateResource.cache
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csproj.CoreCompileInputs.cache
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.exe
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.pdb
+C:\Users\derek\Google Drive\Math Competition Scoring\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Remove_Individual.resources
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.exe.config
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.exe
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\bin\Debug\Math Competition Scorer.pdb
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csprojAssemblyReference.cache
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.form1.resources
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.How_To_Use.resources
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Individual_Student.resources
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Properties.Resources.resources
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math_Competition_Scorer.Remove_Individual.resources
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csproj.GenerateResource.cache
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.csproj.CoreCompileInputs.cache
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.exe
+C:\Users\derek\Nextcloud\Projects\math scorer\Math Competition Scorer\Math Competition Scorer\obj\Debug\Math Competition Scorer.pdb

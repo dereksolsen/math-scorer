@@ -1,0 +1,15 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Menahga                        Team Base Count: 49            Team Score: 491107 |  10   |
+-----------------------------------------------------------------------------------------|
+Menahga                        NICHOLAS        TREINEN              17    170502 |  46   |
+Menahga                        ERIN            GONSA                16    160303 |  69   |
+Menahga                        ANNIKA          AHO                  16    160302 |  70   |
+Menahga                        AIMEE           LAKE                 13    130303 | 125   |
+Menahga                        GAVINH          HILLUKKA             13    130300 | 130   |
+Menahga                        ANNIE           LAKE                 12    120003 | 176   |
+Menahga                        MEGAN           HENDRICKSON          11    110402 | 180   |
+Menahga                        CIERRA          AHLF                 11    110302 | 184   |
+Menahga                        THOMAS          LITZAU               10    100201 | 221   |
+Menahga                        ZACHARY         URVIG                8     80202  | 258   |
+Menahga                        REAGAN          MAYER                7     70100  | 278   |

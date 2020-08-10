@@ -1,0 +1,336 @@
+                                   41ST ANNUAL NORTHERN MINNESOTA MATHEMATICS CONTEST
+                                                    OCTOBER 29, 2013
+
+                                     Department of Mathematics and Computer Science
+                                                Bemidji State University
+
+                                                    Junior Division
+
+               1111111111222222222233333333334
+      1234567890123456789012345678901234567890
+      ----------------------------------------
+Key:  1321413132233134312434431422443521325221
+Ties: 12***2112**2*1****12*11*2*2**1***122*12*
+
+Answers for 40 questions in the key.
+Checking individual correct answers...
+0 errors in the answer key.
+
+Tiebreakers marks for 40 answers.
+Checking individual tiebreakers...
+0 tiebreaker errors.
+
+OK WOOTEN, COLBY                       Junior  A Badger                   5323512141213153315245432331543122312121
+OK DOX, CARTER                         Junior  A Aitkin                   5121331552321422234543422311224312311324
+OK NOEL, CALEB                         Junior  A Lake Park-Audubon        1323214432114133313234231442443355315221
+OK LLOYD, REBECCA                      Junior  A Walker-Hackensack-Akeley 1333512152331123312232531212442154322121
+OK BROWN, MAGGIE                       Junior AA Bemidji                  532342433325213421243243543244315*523321
+OK TINNES, LUCIAN W                    Junior  A Grygla                   3*34442132133151345232412342241412131441
+OK EVENWOLL, KATRINA B                 Junior AA Bemidji                  1334314131153114313434433442143323323521
+OK BREZINSKY, BROOKLYN                 Junior  A Aitkin                   5521511252211113334151445214121155322421
+OK SHEAREN, PATRICK                    Junior  A Walker-Hackensack-Akeley 1123414231242314331221431342121322222323
+OK LEININGER, ALEXIS                   Junior  A Lake Park-Audubon        1224511245232154241235452*32221334325121
+OK HARAPAT, EDDIE                      Junior  A Walker-Hackensack-Akeley 1321415242151114312221432312143153322121
+OK HARRIS, RACHEL                      Junior AA Bemidji                  1124412532223154212434431411143525323251
+OK OLSON, CARTER                       Junior  A Aitkin                   2234512232243354255233452532431145143151
+OK SKIME, EMILY                        Junior AA Bemidji                  133131555233413431*2*44**43**2**2**2*551
+OK KIESOW, JADEN                       Junior  A Grygla                   5124212255323114253232411452421525351331
+OK FORSTER, SHANNON                    Junior  A Aitkin                   5331332254542313255243445425251324312151
+OK THOMPON, MATTHEW C                  Junior  A Walker-Hackensack-Akeley 1321314432213123213252231432341224333121
+OK RICE, JENSEN                        Junior  A Walker-Hackensack-Akeley 1321415132231134314441431342343123323331
+OK VERBOUT, PEYTON                     Junior  A Grygla                   5133511251113123215222512424151415212421
+OK FONTAINE, OLIVIA G                  Junior  A Aitkin                   1133442551121125315242313341451225323131
+OK SNYDER, MARGARET                    Junior AA Bemidji                  1324414232354124313222421412143422323151
+OK MUELLER, DEMICHAEL                  Junior AA Bemidji                  5133443132542124324224413342323512322421
+OK GRANT, BRIARD                       Junior  A Lake Park-Audubon        5123512152115114313221455422342122522121
+OK SWANSON, EDWARD                     Junior  A Walker-Hackensack-Akeley 1323412532231154313231431432432423523221
+OK GALLATINATIN, JONATHON              Junior  A Aitkin                   1243441253113522251221453452351423223221
+OK KOEBKE, ALYSSA                      Junior AA Bemidji                  5323412252231153211224431342241125223231
+OK WEIMER, COLTON                      Junior  A Aitkin                   1333542552232123315345511344343342443***
+OK SEA, TYLER J                        Junior  A Walker-Hackensack-Akeley 2323433432231124313141431411123213322121
+OK WETLI, JUSTIN                       Junior  A Lake Park-Audubon        5233411451121523215221445441223323122151
+OK ARTLEY, SARA                        Junior  A Walker-Hackensack-Akeley 1253425125133152133242424311334222233222
+OK MONSE, ABIGAIL J                    Junior  A Aitkin                   1221311252345113312141451212221135322111
+OK HEGG, DALTON                        Junior AA Bemidji                  5324414434251154315214445412541521523121
+OK KIESOW, ABBY M                      Junior  A Grygla                   1323414242231154213244445522343311353222
+OK MILLER, DAVID L                     Junior  A Aitkin                   532121255223*155215151431323451234512345
+OK SHRIVER, TAYLOR R                   Junior AA Bemidji                  5523212552231134315221431531545122212321
+OK IRLBECK, CHEYENNE                   Junior  A Grygla                   3333311542232114314224421511231514124453
+OK JOHNSON, ELLIOT                     Junior  A Walker-Hackensack-Akeley 1323512112233114114221411412142313352431
+OK KAHLSTORF, HANNAH                   Junior  A Laporte                  5323512432413354352244551432543324521323
+OK KLISCH, JULIA                       Junior AA Bemidji                  5323413352251132313444131321241523414123
+OK LOOP, KIRA                          Junior  A Walker-Hackensack-Akeley 2123312232531154215423551322422452225451
+OK WILSON, REAGAN                      Junior  A Aitkin                   5323414232141224312313431344341134212421
+OK DETMERS, ZOEY                       Junior  A Laporte                  1323411252232134212414435341443315323221
+OK CUMMINGS, JOE P                     Junior  A Aitkin                   42345*34452341232122324151*2453123334221
+OK BUTCHER, BRODY J                    Junior  A Walker-Hackensack-Akeley 2123412232332113312112142343*41315332111
+OK MOLASH, WYATT                       Junior  A Laporte                  1121322212152152221341112431132222224131
+OK GRUHLKE, KENDRA                     Junior  A Aitkin                   1332114232233113313153355222541244123121
+OK MANKIE, KLOHIE                      Junior  A Walker-Hackensack-Akeley 1223113431231124313233431321315323323421
+OK CAMRYN, SMITH M                     Junior  A Laporte                  5153522535423454553221542442351215245411
+OK WICKSTROM, GILLIAN L                Junior  A Aitkin                   1323511232234114214*33512412143124321221
+OK THORSON, BODERIK                    Junior AA Bemidji                  5323414242231154313233431452545322523221
+OK MOORE, JASMINE                      Junior  A Walker-Hackensack-Akeley 1123431213231124511441442412241315223551
+OK RADDATZ, BRIANNA                    Junior  A Walker-Hackensack-Akeley 1323414252211554315211435322142321225231
+OK MOCK, CHASE                         Junior AA Bemidji                  1133311241241123323542111342422213123431
+OK ZACHARY, BENZ                       Junior  A Aitkin                   1323512352311154*12245525521441424322422
+OK TYKWARD, OLIVIA                     Junior  A Grygla                   4224311542411153313111511322141211251221
+OK ROWLAND, JOSEPH                     Junior AA Bemidji                  132141525223115431143443141124352*325532
+OK MCINTOSH, CINNEIDIDH                Junior  A Aitkin                   1321311532231134312212421354531152314121
+OK DAMAR, WILLOW                       Junior  A Walker-Hackensack-Akeley 5433415212432134313231421422141523*2**31
+OK SUCHOSKI, SARAH J                   Junior  A Grygla                   4324212532521122312231422334143521324441
+OK KUKOWSKI, JACOB V                   Junior  A Aitkin                   1331412132243154312441432322131124321221
+OK GUST, EMMA                          Junior  A Badger                   5234411234252155212225425151432512541521
+OK LI, CINDY                           Junior AA Thief River Falls        1325414132231134311434431431243513425521
+OK BUSKER, SHELBY S                    Junior AA Detroit Lakes            4323314332224131312342431432124122223421
+OK HOULE, TYIER                        Junior AA Thief River Falls        12213135425311242152214314521315335245*1
+OK OLSON, OLIVIA                       Junior  A Badger                   4533541243233521424225314411211133211114
+OK SADLOWSKY, SAMUEL                   Junior  A Aitkin                   5323214152213155*12254431322342125521121
+OK CLINE, JASON                        Junior  A Aitkin                   5324244132412131314344411422124522324121
+OK GUST, EMILY                         Junior  A Badger                   5523411551231134211213442342223415551132
+OK CIHAK, ANNA                         Junior AA Detroit Lakes            5124421123224154311313441321223425223221
+OK OLSON, MARK                         Junior AA Detroit Lakes            1124412552231124311141431322121521122441
+OK TAGGART, COLE                       Junior AA Thief River Falls        1121414532231154211224431442143522322221
+OK JANZEN, IZAAC                       Junior  A Aitkin                   15234151422123531144315154221*4425322121
+OK OLSONAWSKI, COOPER                  Junior AA Thief River Falls        132*312232231152314535431332342425325521
+OK ECKMAN, JOSEPH                      Junior AA Detroit Lakes            5323431152435352213434545441243125323431
+OK STAINBROOK, AMELIA                  Junior  A Badger                   2232541122241154235441454342141433232231
+OK MANLEY, TODD                        Junior  A Aitkin                   1332522552231153215523445531321532321424
+OK YLITALO, ALEX C                     Junior  A Badger                   5332513131213133512413411322443525352121
+OK MUHLENKORT, ASHLEY M                Junior AA Detroit Lakes            5324512222413123314231432311241525455121
+OK MILLER, DAVID                       Junior AA Thief River Falls        1323413132231134312234421412443125424121
+OK KOMPELIEN, LOGAN                    Junior  A Badger                   5124411251134115215534451334223255351113
+OK SHERMAN, EMA                        Junior  A Aitkin                   1133432514543323154425445544321345531243
+OK KOTASKA, CIERA                      Junior AA Thief River Falls        1133412232153134213232431345525353222122
+OK NI, GIGI                            Junior AA Detroit Lakes            1323414232232134312432431232143521513221
+OK PURCELL, ABBY                       Junior AA Thief River Falls        1153414532234134234233431242141552323421
+OK GIUSTI, GABRIELLA G                 Junior  A Aitkin                   1431221131124125234141412313221415253121
+OK BERGSTROM, JACOB D                  Junior AA Detroit Lakes            1324412132231154242*54431422143525522521
+OK PAULBECK, HANNAH M                  Junior  A Aitkin                   1523412232231133531211432312443423223321
+OK STRAWSELL, TUCKER J                 Junior AA Detroit Lakes            5134312241432123212242444332323122123221
+OK SNYDER, CODY                        Junior  A Aitkin                   5333312252131513314111412*42341544523221
+OK CHRISTENSEN, KYRI L                 Junior AA Thief River Falls        1321414532232154514434431412143552524521
+OK BARNETT, CHARLES                    Junior AA Detroit Lakes            1324513142251133514255531432543554322521
+OK PRASKA, MORGAN                      Junior  A Badger                   152554515221*1233*522143443231421*******
+OK BODEMER, GONZALO                    Junior  A Badger                   1324414554243153513451452523454535323533
+OK GAYDEN, YASMINE                     Junior AA Thief River Falls        54334425411141*4313252452342121225521552
+OK KIM, DOYEON                         Junior AA Detroit Lakes            5324315252252124215251435322123523525221
+OK HOPPERSTAD, KADE                    Junior  A Aitkin                   12345414152345245132424315124*1422123151
+OK LORENSON, ISAAC P                   Junior  A Badger                   1321414152233125253145442524341135345221
+OK ROGALLA, ALEXA                      Junior AA Thief River Falls        1321514232231113314434431332233524323221
+OK POHL, KIRA                          Junior  A Aitkin                   1323411252231154312221431321123125321121
+OK FREMLING, JOEL                      Junior  A Aitkin                   5333514252252153313233535412522122521211
+OK Student, Unknown                    Junior  A Badger                   5131441555231535231255535212245311521662
+OK Student, Unknown                    Junior AA Detroit Lakes            5321541241531124313431442442525215523251
+OK LORASHNEUENSCHWANDE, LILIBETH       Junior  A Greenbush-Middle River   5133242342234152515544422413554534231451
+OK STILLDAY, ELLIOT A                  Junior  A Blackduck                1124412552212124353222532312555511525***
+OK KELLUM, THOMAS                      Junior  A Blackduck                1134315252513158345241531451541455331531
+OK MELCHER, AGRACIA B                  Junior  A Greenbush-Middle River   1153512542414123333112431433142441512311
+OK TURN, MARLEE E                      Junior  A Kittson Central          4135441152315115315135455252545315323521
+OK HINMAN, BRIANNA J                   Junior  A Verndale                 1523411432535134*1552543351254**********
+OK EVANS, ZACH                         Junior  A Greenbush-Middle River   5134514255514134215215432324341125515121
+OK ROTH, COURTNEY                      Junior  A Verndale                 1323512132321113313231443322451123223431
+OK HANSON, MORGAN                      Junior  A Kittson Central          5323444454231333525233433414315522523421
+OK CREEKMORE, GAGE                     Junior  A Greenbush-Middle River   1323422252253152415431421342242125413511
+OK KVETON, JARRET                      Junior  A Verndale                 5553411241413514321241515334241125532411
+OK STANLEY, ALETHA                     Junior  A Verndale                 122341125431113421521144235414145*******
+OK YOUNGBAUER, GARET                   Junior  A Verndale                 1231542431512151312121415342223523123131
+OK TYRRELL, EVELYN                     Junior  A Verndale                 1523411352335154212311532341243523324221
+OK PANKRATZ, SHELBY                    Junior  A Kittson Central          5113215422251114315241432352125342521321
+OK SHARMA, NICK                        Junior  A Verndale                 12333142525351343135144314523415225*****
+OK BLOMQUISTEGGERLING, FINN            Junior  A Kittson Central          1322414132431134314122431421141325322421
+OK ELBERT, CADEN W                     Junior  A Verndale                 112354555223315431523142133425332441*352
+OK WAPPULA, BRYTON K                   Junior  A Greenbush-Middle River   52235112521331543152224222523431222*****
+OK DEPEW, TUCKER J                     Junior  A Blackduck                5333413522243155315213441522523331352121
+OK BRYNILDSON, TIMOTHY P               Junior  A Pelican Rapids           1321214232235133314235432421443122322524
+OK BENKE, LEXIE                        Junior  A Greenbush-Middle River   5234341122232151313131431213231514332421
+OK CHRISTENSON, HAYDEN                 Junior  A Pelican Rapids           5324414132232154314514431422244155325121
+OK THEISEN, KIRSTN                     Junior  A Blackduck                1323511252235151312211414442222515423121
+OK PHATTANAPHAKDEE, KORAPAT            Junior  A Blackduck                132**141*225*13*11*43443141251532*32****
+OK STANELLE, SARAH                     Junior  A Greenbush-Middle River   1224412212511154313211431411341322323223
+OK MARSH, SAVANNAH D                   Junior  A Blackduck                1323412332313113113231433411411313123221
+OK SONDREAL, PIPER                     Junior  A Greenbush-Middle River   1223421312214324214121432221311122323421
+OK HANNA, JOSHUA                       Junior  A Blackduck                1324412332252154315225441324125324325121
+OK WOJCIECHOWSKI, KALLY                Junior  A Greenbush-Middle River   5124412432351124314221431432425124231451
+OK HEGGEDAL, DYLAN                     Junior  A Greenbush-Middle River   1323411432241123311232431332443124321123
+OK DURANTES, DANIEL                    Junior  A Blackduck                5123251355515153513221452411341155425152
+OK GUSTAFSON, JONAH                    Junior  A Blackduck                1324415452234551212224421422343522332421
+OK BERG, AUBRE M                       Junior  A Greenbush-Middle River   5431432143124315214214415324151425133***
+OK CHENEY, CAROLINE                    Junior  A Blackduck                5131442552423124315211432322441124525121
+OK KOEBERNICK, ELLA E                  Junior  A Greenbush-Middle River   1332314131231133214434431324143112423221
+OK SUTTON, LOGAN                       Junior  A Blackduck                1323442232351123313244441312242133333531
+OK PETZNICK, LOGAN A                   Junior  A Pelican Rapids           1134212132254153312131413442243523523421
+OK DOSAL, ANDREW                       Junior  A Greenbush-Middle River   1123512232132521312413424224121523415151
+OK BERGSNEV, JACOB                     Junior  A Greenbush-Middle River   4134412432213154312214441312321132134***
+OK MURRAY, HALEY                       Junior  A Blackduck                5523412242131124253211441221323112321*22
+OK NELSON, KIRBY D                     Junior  A Pelican Rapids           1323*12132213134312142431342343124323321
+OK BROWN, DELANO                       Junior  A Cass Lake-Bena           3133412524243114233122534312323124131121
+OK HYATT, TALOR                        Junior  A Northome                 4233212553521113321432435441231435211413
+OK BROWN, JARED A                      Junior  A Cass Lake-Bena           5321314451233121213432422111243325323251
+OK NOYES, ANASTASIA                    Junior  A Northome                 5442141341242154155141142412521342131543
+OK DIAZ, MICHAEL                       Junior  A Greenbush-Middle River   4434442222112121311211412412251111311151
+OK BLOOM, RIESE D                      Junior  A Blackduck                5324315242235115355144422355125512322511
+OK KUNZ, ANNA                          Junior  A Pelican Rapids           1323411532531123322245433312345513122421
+OK FISHER, RILEY K                     Junior  A Blackduck                1231412252542114313211115321242123341221
+OK NOVACEK, FAITH                      Junior  A Greenbush-Middle River   1124452255421155412215442532254335213511
+OK MURRAY, SEIENA                      Junior  A Blackduck                1133514352125351232232411314541145312541
+OK WAAGE, ALYSSA M                     Junior  A Greenbush-Middle River   4223242254453324153*12133413244114324231
+OK HAUGRUD, GAVIN                      Junior  A Pelican Rapids           5323414142231134313434431322343424313121
+OK MILLS, ZOEY                         Junior  A Blackduck                5134515252415115513255555554141255551535
+OK GULER, MADDIE A                     Junior  A Pelican Rapids           5323412142231135214334454422123125223421
+OK FOSS, JAMEE I                       Junior  A Greenbush-Middle River   4223212212232135353151434412241124323411
+OK ATENCIO, JAKE                       Junior  A Trek North               5221511141221123254221423444141421131111
+OK WASHINGTON, ALEXANDER M             Junior  A Cass Lake-Bena           5131311252213153215231452312444125******
+OK FOURNIER, XAVIER J                  Junior  A Cass Lake-Bena           5233212452522153213525435452343223522221
+OK NEFT, TAYLER M                      Junior  A Kelliher                 5321414252235134511211414432342422324221
+OK KREKELBERG, TRIANN C                Junior  A Kelliher                 513231223232312121232553331232115*151213
+OK NEWBERRY, HANNAH                    Junior  A Kelliher                 1233212534432152313211422343541144325241
+OK VILLEBRUN, MATTHEW                  Junior  A Cass Lake-Bena           5134442325323124215242252412321321552541
+OK WALDO, MERCEDES                     Junior  A Kelliher                 1333421542234153211251425323344522532121
+OK MATHIS, JONAH                       Junior  A Northome                 1123532512123412513243133422451234311144
+OK BROWN, ANTONIO                      Junior  A Cass Lake-Bena           1134214541242113515441521342441521333524
+OK FINEDAY, CAMDYN                     Junior  A Cass Lake-Bena           5324412232131133213223421324543514322323
+OK HECK, BRANSON                       Junior  A Kelliher                 4223132312431324213542312431241324125341
+OK FOWLER, BRENT A                     Junior  A Cass Lake-Bena           5133442235212113235224433234542454253221
+OK HEAD, SHANELLE K                    Junior  A Kelliher                 4124522122231153313421425431221422421421
+OK HANSON, TUCKER                      Junior  A Tri-County-Karlstad      4232131451311123233251132131514115314143
+OK LYNN, KELLY J                       Junior  A Kelliher                 4123413135314154315245432412321322524121
+OK ANDERSON, HAILLEY I                 Junior  A Tri-County-Karlstad      5322312251154523215255425342332324222521
+OK SOVA, ZACHARY                       Junior  A Crosby-Ironton           4134412241211315315251451412141315131121
+OK WILLIAMSNELSON, NATHAN M            Junior  A Crosby-Ironton           1124314542233124313214432342423424322421
+OK JORGENSEN, DEREK M                  Junior  A Kelliher                 1223414532333153213252455425144115521511
+OK DONNELL, KELSIE L                   Junior  A Kelliher                 5233424452334121113221152554251253432253
+OK STANGEL, MICHAELA D                 Junior  A Crosby-Ironton           1324514232132134314152435311443124322314
+OK PETERSON, ALAYNA A                  Junior  A Tri-County-Karlstad      5434312512432113512252433522141253121431
+OK SCHUHDIETRICH, TERRA                Junior  A Kelliher                 3133241554112154214121442413541115524111
+OK ERICKSON, MEGAN                     Junior  A Crosby-Ironton           1133255132253134354214441342133423221111
+OK LAETITIA, FRANK                     Junior  A Kelliher                 1323414532253133312213433312243223313521
+OK FRINK, ELIZABETH A                  Junior  A Crosby-Ironton           15253152322351334152*2***3****3*******21
+OK SKEIM, KYLE G                       Junior  A Crosby-Ironton           1321414421231134213211535444344113322121
+OK BARTH, HAILEY L                     Junior  A Tri-County-Karlstad      5323414534242152213244222341341124322221
+OK BODLE, MARIAH L                     Junior  A Crosby-Ironton           1323212342231233312241444321143322322121
+OK BARRETT, BRADLEY                    Junior  A Kelliher                 5433225431234333123221532513324243225231
+OK MURRAY, STEVO G                     Junior  A Tri-County-Karlstad      5331414452235152423531431432341123352522
+OK SPILDE, JADE A                      Junior  A Tri-County-Karlstad      5331414531132151323511433421*41412223421
+OK KINGBIRD, SIDNEY L                  Junior  A Kelliher                 1133441154411123243245542151124315421141
+OK OLSSON, ALLISON                     Junior  A Verndale                 4123411432152414313434431412131224323331
+OK LOSSINGA, KRISTINA                  Junior  A Kelliher                 1133411151212453212255445431413425214331
+OK SPALJ, KALINA M                     Junior  A Crosby-Ironton           3331414421234514334235432312225312433221
+OK SEEFELDT, HUNTER J                  Junior  A Verndale                 5333411451455134215551441415121225324522
+OK LOUKS, BRADY                        Junior  A Crosby-Ironton           *13334243153112*3532354153112211******41
+OK MCKEE, WALKER E                     Junior  A Crosby-Ironton           1223414141232134311424431412133322414221
+OK ISMIL, RYAN                         Junior  A Verndale                 1123211442155153314111421452222421531421
+OK EHRMANTRAUT, MARDI                  Junior  A Verndale                 1123414122413124134121412432121234324421
+OK HUMPHREY, KYLEE                     Junior  A Trek North               5335311252153355315442425454142325355521
+OK TOBIN, ETHAN F                      Junior  A Trek North               1324413132212334315241441422342324312451
+OK RASMUSSEN, LOGAN T                  Junior  A Crosby-Ironton           5324414252232154213531415334543322321521
+OK BOUNDS, TATE                        Junior  A Verndale                 5321414232231154213521511432143224523121
+OK MATTISON, DEJA                      Junior  A Trek North               5231512531533115521223424342121225551121
+OK THOMPSON, ALYSSA L                  Junior  A Verndale                 11334122332311243112314354241213213*****
+OK ROBINSON, HUNTER J                  Junior  A Crosby-Ironton           1211441252211123313232335312221325321541
+OK PASTIR, ZACHARY B                   Junior  A Kittson Central          5524432542235314331145334342551225342431
+OK BROWNLOW, MOLLY K                   Junior  A Verndale                 1131414232431123*33411432435243112222321
+OK GLENZ, MORGAN P                     Junior  A Verndale                 123134311*433122431431435522123312421431
+OK JORDAN, SAMUEL G                    Junior  A Crosby-Ironton           11244145522311333124244314211431253425**
+OK GRABA, CHASE                        Junior  A Verndale                 5322441514231521314351132152451344412451
+OK LEMIEUR, SAMUEL                     Junior  A Crosby-Ironton           1323314332253134413144422322313352323121
+OK HAHN, RYAN                          Junior  A Verndale                 4433311241141113212221414441521211251421
+OK JOHNSON, COURTNEY                   Junior  A Crosby-Ironton           1423411242213124313221531312441321423421
+OK SANFORD, EMMA                       Junior  A Crosby-Ironton           1122411551332354513242442331131324212311
+OK VERTINA, BRAYDEN A                  Junior  A Verndale                 1223141132241153214514323311424123521121
+OK SAVICH, JOSEPHINE                   Junior  A Kelliher                 5133441232121152525442435532324143241322
+OK KINGBIRD, ERICA R                   Junior  A Kelliher                 1233432224331524253212442313131133321321
+OK DONNELL, KALEIGHA                   Junior  A Kelliher                 4133222431342123512232411332231422132434
+OK SCHMITZ, LEIGHA                     Junior  A Verndale                 1123513212413112214212412211251445311421
+OK NELSON, CYNTHIA                     Junior  A Kelliher                 5233212141342151424241422311344221221141
+OK GILGE, RILEY                        Junior  A Kelliher                 2324211432232114324215231442341143323121
+OK HAMMER, MELISSA                     Junior  A Verndale                 1333412235231123314311431432222443343421
+OK DONOVAN, SHANE                      Junior  A Crosby-Ironton           1333412242231351213221421211213122522421
+OK IRELAND, KATHRYN                    Junior  A Crosby-Ironton           1134412242231135313234455422123515325521
+OK PETERSEN, ELLIE                     Junior  A Verndale                 5253*3155141113431511544252312152555****
+OK BARRETT, SARAH                      Junior  A Verndale                 5113512235514123554241551425131125323541
+OK BARNA, KATHRYN                      Junior  A Crosby-Ironton           1331412232234154313434433214545124323521
+OK SCHWANKE, ZOE                       Junior  A Verndale                 1535414222315223555412432435231425523421
+OK LACROIX, HONOR                      Junior  A Trek North               5321411132211134515231431422441215323221
+OK POPKES, SOMMER M                    Junior  A Crosby-Ironton           5323414552232114315244441412243135142521
+OK GOODWIN, ZAHRA                      Junior  A Trek North               1334554222422154513221423323223212324221
+OK SABLAN, LOREN                       Junior  A Crosby-Ironton           1324414432255134344254432212343413523121
+OK MOSTAD, JAYCE                       Junior  A Kelliher                 1223311451223124411311431322541123534221
+OK MARTIN, CHRISTINA                   Junior  A Trek North               5124411132231153313211441352143115522111
+OK WENIGER, JACKSON                    Junior  A Verndale                 5323414233131124313221522432241421521241
+OK RASMUSSEN, JENNA                    Junior  A Crosby-Ironton           4223311521332121332251451332421225321441
+OK SCHLUTTNER, MATTHEW                 Junior  A Verndale                 4143241253431115331234432412544125243311
+OK CARLSON, MAKENNA R                  Junior AA Bemidji                  1333512232321314323222433422143322342221
+OK MASSAR, MOLLY                       Junior  A Walker-Hackensack-Akeley 4113511221412111341242442442321215122121
+OK RIAN, WOODROW                       Junior  A Aitkin                   1323411232311134312215433312143425521221
+OK AHLBECK, JAKE K                     Junior  A Grygla                   1133412322213153113122431312444422322321
+OK BLUMER, TESSA                       Junior  A Badger                   513*422412351*444434553223*224124*******
+OK LISLEGARD, AUSTIN M                 Junior  A Warroad                  5131312231231123233231422442321422323111
+OK JOHNSON, CORAL K                    Junior  A Park Rapids              1234442552331324531231515322421213523211
+OK JACOBSON, KIANA                     Junior  A Badger                   5221411152255534213251435551425155121121
+OK RASMUSSEN, EVAN M                   Junior  A Crosby-Ironton           1131514132251134315251451322521255123221
+OK HIETALA, KAEDEN                     Junior  A Badger                   5234532522333152552234445441241125533114
+OK EISCHENS, KATIE                     Junior  A Park Rapids              1333211132211314313232435442143421322122
+OK TRUSCINSKI, KENNEDY                 Junior  A Badger                   1333413*32235*532132434333333233233333*3
+OK SCHMIDTKE, JESSICA M                Junior  A Walker-Hackensack-Akeley 5423211215111224553233541111251332254351
+OK DINKEL, AERIS M                     Junior AA Bemidji                  5324441222253114234452431342121525321151
+OK TENNYSON, KAITLYN                   Junior AA Bemidji                  5334414252231134311134421252423224322551
+OK GEIGER, NICHOLAS                    Junior AA Bemidji                  5324411252235154313534412352125321522321
+OK HOLT, BREANNA L                     Junior  A Walker-Hackensack-Akeley 1423311332432124313231431323221115322121
+OK BERG, PAYTON                        Junior  A Aitkin                   15234135522354*4313252452452541525525121
+OK THOMPSON, LAUA K                    Junior AA Bemidji                  53244144422112343124*1433522222522323121
+OK HAGEN, SOPHIA R                     Junior  A Lake Park-Audubon        5331514232113154213521432442243453422521
+OK BLANCHETTE, JON                     Junior  A Aitkin                   11314115513131533132214314213*4122513221
+OK JOHNSON, KARLY                      Junior  A Walker-Hackensack-Akeley 4131512432324241323242431453141324331421
+OK DAVIS, LAURA                        Junior AA Bemidji                  1323212232251154213223432432141124121421
+OK HANSEN, BROOKLYNN                   Junior  A Aitkin                   1433212341242113243211522442211225423431
+OK OLSON, BOYSEN                       Junior  A Walker-Hackensack-Akeley 1134511142233124315215551332141321323421
+OK STALBERGER, SHADAISA D              Junior  A Lake Park-Audubon        1225212432413113312214352432531421323421
+OK TURNER, SAMANTHA                    Junior  A Aitkin                   5133345541335152522215433352521252522541
+OK DOUGLAS, MORGAN                     Junior AA Bemidji                  1324414532211134511532431352143523321521
+OK SANDEN, TESSA                       Junior  A Badger                   112341222223211331422541234423431255*1*1
+OK STEFFEL, WHITNEY                    Junior  A Park Rapids              5123412153421154313221435322431223324253
+OK KAML, KARISSA                       Junior  A Badger                   5332442231412153215215412243325312342411
+OK SHORTER, MYA S                      Junior AA Bemidji                  1321414132221134312454431322543525322221
+OK SHORT, BAYLOR                       Junior  A Walker-Hackensack-Akeley 5133214252133134212231452451345325422221
+OK LEESEBERG, PAIGE                    Junior  A Park Rapids              5124414452231124313224415432241325323311
+OK FETTIG, CHRISTIAN                   Junior AA Bemidji                  1121412234233414222333431422453522322421
+OK FASTNER, KADY L                     Junior  A Aitkin                   1323314142213124312244435422142424322121
+OK SCHROM, REID                        Junior  A Laporte                  1534442225244125315213431*14341415151513
+OK STEIN, AUTUMN                       Junior  A Walker-Hackensack-Akeley 1133411252244124213243445313244121333421
+OK ZAMORA, BONNIE M                    Junior  A Laporte                  3452421213425424111312525434152513215441
+OK EMERY, AMELIA                       Junior  A Walker-Hackensack-Akeley 5131212231232143215233533442144122324411
+OK GAULKE, AMY                         Junior  A Aitkin                   51*441255221513*315*5544*3251**52232*521
+OK SIEMS, JAMES                        Junior AA Bemidji                  1324413132253144315434431422143521322421
+OK REISH, JAKE                         Junior  A Park Rapids              1321514132231133311434431432343422334421
+OK SIMPSON, SARA                       Junior  A Park Rapids              51333122422311143532314323224214211*4241
+OK VONENDE, EMMA                       Junior  A Badger                   1334413132232521313132431521211312242313
+OK STRANDLIE, BENJAMIN C               Junior  A Walker-Hackensack-Akeley 1133414552132521313152521455423425323531
+OK EYSTAD, ABBY                        Junior  A Park Rapids              1134314551355154314241455454453325122421
+OK DAVY, GAVIN                         Junior  A Badger                   1323312152412152215221451422543124331421
+OK CARLS, GRACE C                      Junior AA Bemidji                  5323411552234154212214432412543125141221
+OK GRABINGER, ELISE                    Junior  A Lake Park-Audubon        122341413223111433223453545244312422***1
+OK SUEDEL, GANNON L                    Junior  A Badger                   2133221414532124313254544413231241513543
+OK POHL, COLTIN                        Junior AA Aitkin                   1335415232353522312141224315421423522421
+OK O LOUGHLIN, VALLA                   Junior  A Warroad                  11333125515131542141414424111314224234**
+OK KNUTSON, JAYDEN                     Junior  A Warroad                  532121413122313431323343*4*414**2**42121
+OK DIGNAN, SARAH                       Junior  A Warroad                  1324214442233134334234131444121152******
+OK SCHWIETZ, TIMOTHY                   Junior  A Aitkin                   5133512255251153213211423342545125523121
+OK BJORGAN, KEVIN                      Junior  A Lake Park-Audubon        5131*14*3222143132321442342234342******1
+OK HAUSKEN, STEVEN                     Junior  A Walker-Hackensack-Akeley 1132421253315354253214232525123243315514
+OK YOUSO, GWENDOLINE                   Junior AA Bemidji                  1324414152533134312114432541123224321221
+OK KRENGEL, SARAH L                    Junior AA Detroit Lakes            *32**141322***32313234421242343321323221
+OK RYAN, JOHNATHAN K                   Junior  A Aitkin                   5524414432213134511234431322141524341221
+OK PRIES, BRANDON H                    Junior  A Badger                   5123211232232234213212435213141352521221
+OK BLAZEK, JEREMY                      Junior  A Aitkin                   5323413232231532312223441441343123323521
+OK KRUGER, MORGAN L                    Junior  A Lake Park-Audubon        1322414132232134212231431424132523523121
+OK CROW, SUMMER                        Junior AA Bemidji                  152141455221315433323445345255312*******
+OK WALES, LOGAN                        Junior  A Walker-Hackensack-Akeley 1324411542211154213231431311143413523221
+OK MACDONALD, JILLIAN                  Junior  A Aitkin                   4234144231531142231251422132441413323151
+OK CORNELIUSEN, DERRICK S              Junior  A Badger                   2134332253314351331233142311421335132233
+OK AVENALL, CASEY J                    Junior  A Aitkin                   1323312232221133211221433412121323324421
+
+309 students processed.
+
+0 student records contain one or more errors.
+

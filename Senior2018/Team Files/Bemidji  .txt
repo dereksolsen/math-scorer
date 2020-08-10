@@ -1,0 +1,42 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Bemidji                        Team Base Count: 74            Team Score: 741415 |   1   |
+-----------------------------------------------------------------------------------------|
+Bemidji                        MYA             SHORTER              27    270505 |   1   |
+Bemidji                        JAMES           SIEMS                24    240404 |   3   |
+Bemidji                        JACKSON         STURK                23    230506 |   5   |
+Bemidji                        NIKOLAI         KIVI                 23    230305 |   7   |
+Bemidji                        EMMA            MULLER               22    220406 |  11   |
+Bemidji                        SARAH           POLLOCK              20    200504 |  21   |
+Bemidji                        CARLEY          SWANSONGARRO         20    200304 |  24   |
+Bemidji                        JONAH           FUHRMAN              19    190503 |  26   |
+Bemidji                        MORGAN          DOUGLAS              19    190401 |  31   |
+Bemidji                        SUSAN           RITTER               18    180204 |  42   |
+Bemidji                        OLIVIA          CARLSON              17    170504 |  43   |
+Bemidji                        SARA            OSTER                17    170305 |  50   |
+Bemidji                        BROCKTON        MCCRORY              17    170304 |  51   |
+Bemidji                        RUMER           FLATNESS             17    170304 |  53   |
+Bemidji                        KENZIE          CHRISTIANSEN         17    170303 |  54   |
+Bemidji                        SHANNA          EBERWINE             17    170203 |  56   |
+Bemidji                        RILEY           BERG                 16    160602 |  57   |
+Bemidji                        EMILY           SKIME                16    160504 |  58   |
+Bemidji                        MARRYN          WILLBERG             16    160404 |  62   |
+Bemidji                        NICHOLAS        GALL                 16    160304 |  65   |
+Bemidji                        MIKERRA         MATTHEWS             16    160303 |  68   |
+Bemidji                        HARPER          TOWARD               16    160204 |  74   |
+Bemidji                        CHRISTIAN       FETTIG               16    160203 |  78   |
+Bemidji                        REBECCA         RITTER               16    160203 |  77   |
+Bemidji                        JORDYN          CAVE                 15    150204 |  93   |
+Bemidji                        BROC            WALDHAUSEN           14    140403 |  97   |
+Bemidji                        NOAH            BURGESS              14    140403 | 100   |
+Bemidji                        LOUIS           SAXTON               14    140304 | 104   |
+Bemidji                        MAGGIE          BROWN                14    140203 | 113   |
+Bemidji                        HANA            TOWARD               14    140004 | 119   |
+Bemidji                        DYLAN           CLEVELAND            13    130300 | 131   |
+Bemidji                        TORI            WARNE                13    130205 | 132   |
+Bemidji                        ABIGAIL         YARTZ                13    130102 | 144   |
+Bemidji                        LAURA           THOMPSON             12    120203 | 161   |
+Bemidji                        ISAAC           KLEJESKI             12    120201 | 167   |
+Bemidji                        ALESA           BJERKE               11    110101 | 200   |
+Bemidji                        TESSA           LARGE                9     90102  | 249   |
+Bemidji                        ZACHARY         FOUQUREL_SKOE        8     80103  | 265   |

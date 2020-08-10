@@ -1,0 +1,6 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Bagley                         Team Base Count: 30            Team Score: 300705 |  27   |
+-----------------------------------------------------------------------------------------|
+Bagley                         LAYLA           BERG                 17    170304 |  52   |
+Bagley                         SAMANTHA        MOLITOR              13    130401 | 124   |

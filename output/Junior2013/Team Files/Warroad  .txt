@@ -1,0 +1,8 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Warroad                        Team Base Count: 52            Team Score: 520913 |  20   |
+-----------------------------------------------------------------------------------------|
+Warroad                        JAYDEN          KNUTSON              21    210404 |  73   |
+Warroad                        SARAH           DIGNAN               17    170304 | 149   |
+Warroad                        AUSTIN          LISLEGARD            14    140205 | 213   |
+Warroad                        LOUGHLIN        O                    10    100302 | 259   |

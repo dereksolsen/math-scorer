@@ -1,0 +1,17 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Barnesville                    Team Base Count: 59            Team Score: 591310 |   6   |
+-----------------------------------------------------------------------------------------|
+Barnesville                    EMILY           SPILDE               22    220603 |   9   |
+Barnesville                    NICKOLAS        AADLAND              21    210405 |  16   |
+Barnesville                    KAITLYN         MAESSE               16    160302 |  71   |
+Barnesville                    AUSTIN          AVERY                16    160205 |  73   |
+Barnesville                    PAYTON          LEWIS                15    150300 |  91   |
+Barnesville                    COLE            LOEKS                14    140402 | 102   |
+Barnesville                    DANIEL          GERNER               14    140402 | 103   |
+Barnesville                    KYA             ANDERSON             14    140302 | 106   |
+Barnesville                    LUKE            TONSFELDT            13    130104 | 141   |
+Barnesville                    ELIZABETH       BREDMAN              12    120401 | 149   |
+Barnesville                    NATE            KAPAUN               10    100403 | 202   |
+Barnesville                    GRACE           SCHINDLER            8     80401  | 253   |
+Barnesville                    JOSIE           SCHAEFER             8     80200  | 264   |

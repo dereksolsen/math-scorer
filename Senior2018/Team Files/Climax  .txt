@@ -1,0 +1,9 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Climax                         Team Base Count: 38            Team Score: 380607 |  24   |
+-----------------------------------------------------------------------------------------|
+Climax                         COLE            VATNSDAL             15    150303 |  87   |
+Climax                         DANIELLE        CAKEBREAD            13    130104 | 142   |
+Climax                         JOSHUA          DOHMAN               10    100200 | 223   |
+Climax                         ARLIE           RUDNIK               7     70302  | 271   |
+Climax                         SAMUEL          HINOJOSA             3     30001  | 300   |

@@ -1,0 +1,14 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Verndale                       Team Base Count: 45            Team Score: 450908 |  18   |
+-----------------------------------------------------------------------------------------|
+Verndale                       KARA            WOEHL                16    160501 |  61   |
+Verndale                       CADEN           ELBERT               16    160104 |  79   |
+Verndale                       MELISSA         HAMMER               13    130303 | 127   |
+Verndale                       JOHNN           HOLMAN               13    130200 | 140   |
+Verndale                       LEIGHA          SCHMITZ              12    120304 | 150   |
+Verndale                       ISABEL          VILHENA              11    110203 | 190   |
+Verndale                       YAZMINE         KIMBALL              10    100302 | 211   |
+Verndale                       COURTNEY        ROTH                 8     80401  | 252   |
+Verndale                       ZOE             SCHWANKE             8     80200  | 263   |
+Verndale                       JADEN           ENGEBRETSON          7     70101  | 276   |

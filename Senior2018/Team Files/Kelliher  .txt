@@ -1,0 +1,23 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Kelliher                       Team Base Count: 45            Team Score: 451107 |  17   |
+-----------------------------------------------------------------------------------------|
+Kelliher                       LAETITIA        FRANK                18    180303 |  41   |
+Kelliher                       KALEIGHA        DONNELL              15    150502 |  82   |
+Kelliher                       DANIEL          DURANTES             12    120302 | 151   |
+Kelliher                       RILEY           GILGE                12    120203 | 163   |
+Kelliher                       SHANELLE        HEAD                 12    120202 | 165   |
+Kelliher                       TRIANN          KREKELBERG           12    120105 | 170   |
+Kelliher                       KYLIE           OWEN                 9     90302  | 234   |
+Kelliher                       ERIN            LUSSIER              9     90201  | 245   |
+Kelliher                       MERCEDES        WALDO                9     90201  | 242   |
+Kelliher                       ETHAN           KOISTI               8     80301  | 256   |
+Kelliher                       TRINITY         SCHUH_DIETRICH       8     80201  | 262   |
+Kelliher                       KRISTINA        LOSSING              7     70101  | 277   |
+Kelliher                       TAYLER          NEFT                 7     70001  | 280   |
+Kelliher                       CEDRIC          BARRETTBARET         6     60201  | 282   |
+Kelliher                       TERRA           SCHUH_DIETRICH       6     60201  | 281   |
+Kelliher                       CYNTHIA         NELSON               6     60101  | 286   |
+Kelliher                       JOSIE           SAVICH               6     60002  | 288   |
+Kelliher                       HANNAA          ALBRECHT             5     50101  | 292   |
+Kelliher                       JORDA           UFFOD                5     50101  | 294   |

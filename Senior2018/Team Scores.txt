@@ -1,0 +1,441 @@
+School                         First Name      Last Name    Base Score
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Aitkin                                             Team Base Score: 40      
+----------------------------------------------------------------------
+Aitkin                         BRETT           BOSSERMAN            15      
+Aitkin                         ANNE            COURTEMANCHE         13      
+Aitkin                         KARLY           SHERECK              12      
+Aitkin                         CASEY           AVENALL              12      
+Aitkin                         SAMANTHA        TURNER               11      
+Aitkin                         TIMOTHY         SCHWIETZ             10      
+Aitkin                         KENDRA          GRUHLKE              7       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Badger                                             Team Base Score: 48      
+----------------------------------------------------------------------
+Badger                         ALEX            YLITALO              19      
+Badger                         GAVIN           DAVY                 17      
+Badger                         COLTEN          GUST                 12      
+Badger                         TESSA           BLUMER               11      
+Badger                         TIMOTHY         KJELLAND             10      
+Badger                         ISAAC           LORENSON             10      
+Badger                         KIANA           JACOBSON             9       
+Badger                         EMMA            GUST                 7       
+Badger                         ESTHER          NELSON               5       
+Badger                         LOGAN           SUNSDAHL             4       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Bagley                                             Team Base Score: 30      
+----------------------------------------------------------------------
+Bagley                         LAYLA           BERG                 17      
+Bagley                         SAMANTHA        MOLITOR              13      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Barnesville                                        Team Base Score: 59      
+----------------------------------------------------------------------
+Barnesville                    EMILY           SPILDE               22      
+Barnesville                    NICKOLAS        AADLAND              21      
+Barnesville                    KAITLYN         MAESSE               16      
+Barnesville                    AUSTIN          AVERY                16      
+Barnesville                    PAYTON          LEWIS                15      
+Barnesville                    COLE            LOEKS                14      
+Barnesville                    DANIEL          GERNER               14      
+Barnesville                    KYA             ANDERSON             14      
+Barnesville                    LUKE            TONSFELDT            13      
+Barnesville                    ELIZABETH       BREDMAN              12      
+Barnesville                    NATE            KAPAUN               10      
+Barnesville                    GRACE           SCHINDLER            8       
+Barnesville                    JOSIE           SCHAEFER             8       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Bemidji                                            Team Base Score: 74      
+----------------------------------------------------------------------
+Bemidji                        MYA             SHORTER              27      
+Bemidji                        JAMES           SIEMS                24      
+Bemidji                        JACKSON         STURK                23      
+Bemidji                        NIKOLAI         KIVI                 23      
+Bemidji                        EMMA            MULLER               22      
+Bemidji                        SARAH           POLLOCK              20      
+Bemidji                        CARLEY          SWANSONGARRO         20      
+Bemidji                        JONAH           FUHRMAN              19      
+Bemidji                        MORGAN          DOUGLAS              19      
+Bemidji                        SUSAN           RITTER               18      
+Bemidji                        OLIVIA          CARLSON              17      
+Bemidji                        SARA            OSTER                17      
+Bemidji                        BROCKTON        MCCRORY              17      
+Bemidji                        RUMER           FLATNESS             17      
+Bemidji                        KENZIE          CHRISTIANSEN         17      
+Bemidji                        SHANNA          EBERWINE             17      
+Bemidji                        RILEY           BERG                 16      
+Bemidji                        EMILY           SKIME                16      
+Bemidji                        MARRYN          WILLBERG             16      
+Bemidji                        NICHOLAS        GALL                 16      
+Bemidji                        MIKERRA         MATTHEWS             16      
+Bemidji                        HARPER          TOWARD               16      
+Bemidji                        CHRISTIAN       FETTIG               16      
+Bemidji                        REBECCA         RITTER               16      
+Bemidji                        JORDYN          CAVE                 15      
+Bemidji                        BROC            WALDHAUSEN           14      
+Bemidji                        NOAH            BURGESS              14      
+Bemidji                        LOUIS           SAXTON               14      
+Bemidji                        MAGGIE          BROWN                14      
+Bemidji                        HANA            TOWARD               14      
+Bemidji                        DYLAN           CLEVELAND            13      
+Bemidji                        TORI            WARNE                13      
+Bemidji                        ABIGAIL         YARTZ                13      
+Bemidji                        LAURA           THOMPSON             12      
+Bemidji                        ISAAC           KLEJESKI             12      
+Bemidji                        ALESA           BJERKE               11      
+Bemidji                        TESSA           LARGE                9       
+Bemidji                        ZACHARY         FOUQUREL_SKOE        8       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Blackduck                                          Team Base Score: 37      
+----------------------------------------------------------------------
+Blackduck                      MASON           SMID                 13      
+Blackduck                      ANGEL           REIGEL               13      
+Blackduck                      KIRSTEN         THEISEN              11      
+Blackduck                      SAMANTHA        CHRISTENSEN          11      
+Blackduck                      JADA            LANDIS               10      
+Blackduck                      CAROLINE        CHENEY               10      
+Blackduck                      HALEY           MURRAY               10      
+Blackduck                      CONNER          PORATH               10      
+Blackduck                      ZOEY            MILLS                10      
+Blackduck                      THOMAS          KELLUM               10      
+Blackduck                      JONAH           GUSTAFSON            10      
+Blackduck                      TRISTAN         ROSSMAN              9       
+Blackduck                      DYLAN           MOEN                 9       
+Blackduck                      LOGAN           SUTTON               9       
+Blackduck                      KENNEDI         LEINO                7       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Browerville                                        Team Base Score: 47      
+----------------------------------------------------------------------
+Browerville                    CHRISTIAN       SUTLIEF              21      
+Browerville                    DANIEL          THOMPSON             13      
+Browerville                    LAUREN          STORMOEN             13      
+Browerville                    KAYLEE          ESTERBERG            11      
+Browerville                    CHING_CHIH      YU                   10      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Cass Lake-Bena                                     Team Base Score: 36      
+----------------------------------------------------------------------
+Cass Lake-Bena                 BRENT           FOWLER               13      
+Cass Lake-Bena                 CAMDYN          FINEDAY              12      
+Cass Lake-Bena                 ANTONIO         BROWN                11      
+Cass Lake-Bena                 XAVIER          FOURNIER             11      
+Cass Lake-Bena                 ELMBERG         JAMESE               11      
+Cass Lake-Bena                 JARED           BROWN                11      
+Cass Lake-Bena                 MATTHEW         VILLEBRUN            11      
+Cass Lake-Bena                 TYRELL          JACKSON              10      
+Cass Lake-Bena                 EMMAUEL         FAIRBANKST           10      
+Cass Lake-Bena                 SHARON          MCGUIRE              9       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Climax                                             Team Base Score: 38      
+----------------------------------------------------------------------
+Climax                         COLE            VATNSDAL             15      
+Climax                         DANIELLE        CAKEBREAD            13      
+Climax                         JOSHUA          DOHMAN               10      
+Climax                         ARLIE           RUDNIK               7       
+Climax                         SAMUEL          HINOJOSA             3       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Crosby-Ironton                                     Team Base Score: 62      
+----------------------------------------------------------------------
+Crosby-Ironton                 MEGAN           ERICKSON             23      
+Crosby-Ironton                 TREVOR          HUTCHISON            21      
+Crosby-Ironton                 MARIAH          BODLE                18      
+Crosby-Ironton                 LOGAN           RASMUSSEN            18      
+Crosby-Ironton                 ABIGAIL         ARNESON              17      
+Crosby-Ironton                 MICHAELA        STANGEL              17      
+Crosby-Ironton                 GRACIE          SLOWINSKI            16      
+Crosby-Ironton                 BROOKLYN        FELTEN               14      
+Crosby-Ironton                 SHELAIN         LEWIS                14      
+Crosby-Ironton                 KATHRYN         BARNA                14      
+Crosby-Ironton                 JAMES           STIREWALT            13      
+Crosby-Ironton                 DANIELLE        RYDBERG              13      
+Crosby-Ironton                 SAMUEL          ROBERTS              12      
+Crosby-Ironton                 BREA            AMUNDSON             12      
+Crosby-Ironton                 JENNA           RASMUSSEN            12      
+Crosby-Ironton                 LOREN           SABLAN               12      
+Crosby-Ironton                 ANNIKA          SEVESON              12      
+Crosby-Ironton                 ANTHONY         HUDRLIK              11      
+Crosby-Ironton                 SAMUEL          LEMIEUR              11      
+Crosby-Ironton                 KATHRYN         IRELAND              11      
+Crosby-Ironton                 BRADY           LOUKS                11      
+Crosby-Ironton                 ELIZABETH       FRINK                10      
+Crosby-Ironton                 MADISON         BORDWELL             9       
+Crosby-Ironton                 SOMMER          POPKES               9       
+Crosby-Ironton                 EMMA            SANFORD              6       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Detroit Lakes                                      Team Base Score: 69      
+----------------------------------------------------------------------
+Detroit Lakes                  JACOB           BERGSTROM            26      
+Detroit Lakes                  TANNER          OLSON                23      
+Detroit Lakes                  AARON           OAKES                20      
+Detroit Lakes                  ZACHERY         SHOEMAKER            19      
+Detroit Lakes                  PHILIP          HINRICHS             19      
+Detroit Lakes                  GIGI            NI                   18      
+Detroit Lakes                  ERIC            KALLSTROM            15      
+Detroit Lakes                  ANNA            CIHAK                14      
+Detroit Lakes                  ASHLEY          MUHLENKORT           14      
+Detroit Lakes                  GRACE           VANOFFELEN           13      
+Detroit Lakes                  SARAH           KRENGEL              10      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Greenbush-Middle River                             Team Base Score: 46      
+----------------------------------------------------------------------
+Greenbush-Middle River         DYLAN           HEGGEDAL             20      
+Greenbush-Middle River         ELLA            KOEBERNICK           14      
+Greenbush-Middle River         KAMRIN          WEETS                12      
+Greenbush-Middle River         SARAH           STANELLE             12      
+Greenbush-Middle River         PIPER           SONDREAL             12      
+Greenbush-Middle River         BREYDON         BERTILRUD            9       
+Greenbush-Middle River         BREEANNA        NOVACEK              9       
+Greenbush-Middle River         JAKE            TAGGART              8       
+Greenbush-Middle River         KEEGAN          RUSTAD               7       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Grygla                                             Team Base Score: 44      
+----------------------------------------------------------------------
+Grygla                         PAYTON          GRANDSTRAND          15      
+Grygla                         ELISE           MONSON               15      
+Grygla                         BAILEY          WATNE                14      
+Grygla                         JAKE            AHLBECK              12      
+Grygla                         CHEYENNE        IRLBECK              11      
+Grygla                         SARAH           SUCHOSKI             10      
+Grygla                         ABBY            KIESOW               10      
+Grygla                         MACI            BAKKEN               8       
+Grygla                         DARIA           WALETZKI             7       
+Grygla                         LAYLA           JELLE                4       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Indus                                              Team Base Score: 46      
+----------------------------------------------------------------------
+Indus                          MAGGIE          MORGAN               16      
+Indus                          TAYLOR          HYATT                16      
+Indus                          KIMBURLY        LOYCANO              14      
+Indus                          KIERSTYN        JOHNSON              10      
+Indus                          RYAN            NOYES                10      
+Indus                          JONAH           MATHIS               8       
+Indus                          EMMA            MORGAN               7       
+Indus                          ANASTASIA       NOYES                5       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Kelliher                                           Team Base Score: 45      
+----------------------------------------------------------------------
+Kelliher                       LAETITIA        FRANK                18      
+Kelliher                       KALEIGHA        DONNELL              15      
+Kelliher                       DANIEL          DURANTES             12      
+Kelliher                       RILEY           GILGE                12      
+Kelliher                       SHANELLE        HEAD                 12      
+Kelliher                       TRIANN          KREKELBERG           12      
+Kelliher                       KYLIE           OWEN                 9       
+Kelliher                       ERIN            LUSSIER              9       
+Kelliher                       MERCEDES        WALDO                9       
+Kelliher                       ETHAN           KOISTI               8       
+Kelliher                       TRINITY         SCHUH_DIETRICH       8       
+Kelliher                       KRISTINA        LOSSING              7       
+Kelliher                       TAYLER          NEFT                 7       
+Kelliher                       CEDRIC          BARRETTBARET         6       
+Kelliher                       TERRA           SCHUH_DIETRICH       6       
+Kelliher                       CYNTHIA         NELSON               6       
+Kelliher                       JOSIE           SAVICH               6       
+Kelliher                       HANNAA          ALBRECHT             5       
+Kelliher                       JORDA           UFFOD                5       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Kittson Central                                    Team Base Score: 54      
+----------------------------------------------------------------------
+Kittson Central                FINN            BLOMQUIST_EG         23      
+Kittson Central                ZACHARY         PASTIR               16      
+Kittson Central                MARLEE          TURN                 15      
+Kittson Central                MORGAN          HANSON               8       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Lake Park-Audubon                                  Team Base Score: 59      
+----------------------------------------------------------------------
+Lake Park-Audubon              SYDNEY          PORTER               22      
+Lake Park-Audubon              ELISE           GRABINGER            19      
+Lake Park-Audubon              MORGAN          KRUGER               18      
+Lake Park-Audubon              ETTA            MIOSEK               15      
+Lake Park-Audubon              KEVIN           BJORGAN              14      
+Lake Park-Audubon              SHADAISA        STALBERGER           14      
+Lake Park-Audubon              ALEXIS          LEININGER            13      
+Lake Park-Audubon              MORGAN          NELSON               13      
+Lake Park-Audubon              CALEB           NOEL                 13      
+Lake Park-Audubon              KAY             PEDERSON             7       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Laporte                                            Team Base Score: 39      
+----------------------------------------------------------------------
+Laporte                        KIAH            REIMER               14      
+Laporte                        REBECCA         CLYDE                13      
+Laporte                        CHRISTOPHER     MCDOUGALL            12      
+Laporte                        HANNAH          KAHLSTORF            11      
+Laporte                        MATIA           ERICKSON             5       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Mahnomen                                           Team Base Score: 53      
+----------------------------------------------------------------------
+Mahnomen                       JON             STARKEY              19      
+Mahnomen                       RACHEL          DURANT               18      
+Mahnomen                       WHITNEY         CLARK                16      
+Mahnomen                       KAEL            SNETSINGER           16      
+Mahnomen                       CALEB           SVENDSGAARD          15      
+Mahnomen                       MA_EVAN         DELACRUZZ            13      
+Mahnomen                       NATHAN          KRAFT                12      
+Mahnomen                       IZAIAH          ASHER                10      
+Mahnomen                       SYDNEY          CLARK                8       
+Mahnomen                       MAGGIE          HEDSTROM             4       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Menahga                                            Team Base Score: 49      
+----------------------------------------------------------------------
+Menahga                        NICHOLAS        TREINEN              17      
+Menahga                        ERIN            GONSA                16      
+Menahga                        ANNIKA          AHO                  16      
+Menahga                        AIMEE           LAKE                 13      
+Menahga                        GAVINH          HILLUKKA             13      
+Menahga                        ANNIE           LAKE                 12      
+Menahga                        MEGAN           HENDRICKSON          11      
+Menahga                        CIERRA          AHLF                 11      
+Menahga                        THOMAS          LITZAU               10      
+Menahga                        ZACHARY         URVIG                8       
+Menahga                        REAGAN          MAYER                7       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Park Rapids                                        Team Base Score: 63      
+----------------------------------------------------------------------
+Park Rapids                    KATIE           EISCHENS             22      
+Park Rapids                    KAELAN          EMERSON              21      
+Park Rapids                    JAKE            REISH                20      
+Park Rapids                    PRESTON         RENNEBERG            19      
+Park Rapids                    SYDNEY          KOPPELMAN            18      
+Park Rapids                    WHITNEV         STEFFEL              17      
+Park Rapids                    JON             WORNER               12      
+Park Rapids                    PAIGE           LEESEBERG            12      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Pelican Rapids                                     Team Base Score: 60      
+----------------------------------------------------------------------
+Pelican Rapids                 GAVIN           HAUGRUD              21      
+Pelican Rapids                 TIMOTHY         BRYNILDSON           20      
+Pelican Rapids                 HAYDEN          CHRISTENSON          19      
+Pelican Rapids                 ANNA            KUNZ                 16      
+Pelican Rapids                 ALYCE           ERDMAN               16      
+Pelican Rapids                 MADELINE        GULER                15      
+Pelican Rapids                 COLM            FITZSIMMONS          13      
+Pelican Rapids                 MACKENZIE       THORNTON             10      
+Pelican Rapids                 LOGAN           PETZNICK             9       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Roseau                                             Team Base Score: 47      
+----------------------------------------------------------------------
+Roseau                         KELSEY          BULEY                22      
+Roseau                         CATIE           GLODOWSKI            21      
+Roseau                         JORDYN          DOAK                 4       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Trek North                                         Team Base Score: 39      
+----------------------------------------------------------------------
+Trek North                     JAKE            ATENCIO              15      
+Trek North                     ETHAN           TOBIN                13      
+Trek North                     ALEXANDER       KINGBIRD_LOWRY       11      
+Trek North                     KYLEE           HUMPHREY             10      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Tri-County-Karlstad                                Team Base Score: 30      
+----------------------------------------------------------------------
+Tri-County-Karlstad            HAILLEY         ANDERSON             11      
+Tri-County-Karlstad            HAILEY          BARTH                10      
+Tri-County-Karlstad            AGRACIA         MELCHER              9       
+Tri-County-Karlstad            BEAU            WALZ                 9       
+Tri-County-Karlstad            ETHAN           KLEGSTAD             9       
+Tri-County-Karlstad            MANDA           WOLLIN               9       
+Tri-County-Karlstad            COLTON          NEWELL               6       
+Tri-County-Karlstad            GUNNER          KOLAND               4       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Verndale                                           Team Base Score: 45      
+----------------------------------------------------------------------
+Verndale                       KARA            WOEHL                16      
+Verndale                       CADEN           ELBERT               16      
+Verndale                       MELISSA         HAMMER               13      
+Verndale                       JOHNN           HOLMAN               13      
+Verndale                       LEIGHA          SCHMITZ              12      
+Verndale                       ISABEL          VILHENA              11      
+Verndale                       YAZMINE         KIMBALL              10      
+Verndale                       COURTNEY        ROTH                 8       
+Verndale                       ZOE             SCHWANKE             8       
+Verndale                       JADEN           ENGEBRETSON          7       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Walker-Hackensack-Akeley                           Team Base Score: 49      
+----------------------------------------------------------------------
+Walker-Hackensack-Akeley       THOMAS          HANSEN               17      
+Walker-Hackensack-Akeley       JENSEN          RICE                 16      
+Walker-Hackensack-Akeley       ELLIOT          JOHNSON              16      
+Walker-Hackensack-Akeley       RACHEL          PITT                 15      
+Walker-Hackensack-Akeley       WILLOW          DAMA                 15      
+Walker-Hackensack-Akeley       BRODY           BUTCHER              15      
+Walker-Hackensack-Akeley       CONNOR          CRAVEN               14      
+Walker-Hackensack-Akeley       JACOB           RADKE                14      
+Walker-Hackensack-Akeley       TANNER          RIVARD               14      
+Walker-Hackensack-Akeley       JASMINE         MOORE                12      
+Walker-Hackensack-Akeley       KLOHIE          MANKIE               12      
+Walker-Hackensack-Akeley       BRIANNA         RADDATZ              12      
+Walker-Hackensack-Akeley       TYLER           SEA                  11      
+Walker-Hackensack-Akeley       CONNOR          GNOINSKYNOINSKY      11      
+Walker-Hackensack-Akeley       MOLLY           MASSAR               10      
+Walker-Hackensack-Akeley       JUSTINE         DAY                  10      
+Walker-Hackensack-Akeley       BAYLOR          SHORT                9       
+Walker-Hackensack-Akeley       HEIDI           JOHNSON              9       
+Walker-Hackensack-Akeley       EDWARD          HARAPAT              8       
+Walker-Hackensack-Akeley       MINOUNG         PARK                 8       
+Walker-Hackensack-Akeley       TREVOR          JOHNSON              8       
+Walker-Hackensack-Akeley       ETHAN           ANDERSON             8       
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Waubun                                             Team Base Score: 44      
+----------------------------------------------------------------------
+Waubun                         COLLIN          ADAMS                17      
+Waubun                         CASE            DORMAN               14      
+Waubun                         LOGAN           PAZDERNIK            13      
+Waubun                         NATHAN          NELSON               12      
+Waubun                         CARISSA         KENT                 10      
+Waubun                         ELIZABETH       REICH                10      
+Waubun                         AUGUSTUS        VANATA               6       
+Waubun                         FIYRIE          BOSWELL              6       
+Waubun                         DOUGLAS         MCARTHUR             5       

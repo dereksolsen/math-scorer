@@ -1,0 +1,345 @@
+1  Aitkin 
+2  Hill City 
+4  McGregor 
+6  South St. Paul 
+11  Anoka-Hennepin 
+12  Centennial 
+13  Columbia Heights 
+14  Fridley 
+15  St. Francis 
+16  Spring Lake Park 
+22  Detroit Lakes 
+23  Frazee-Vergas 
+25  Pine Point 
+31  Bemidji 
+32  Blackduck 
+36  Kelliher 
+38  Red Lake 
+47  Sauk Rapids 
+51  Foley 
+62  Ortonville 
+75  St. Clair 
+77  Mankato 
+81  Comfrey 
+84  Sleepy Eye 
+85  Springfield 
+88  New Ulm 
+91  Barnum 
+93  Carlton 
+94  Cloquet 
+95  Cromwell-Wright 
+97  Moose Lake 
+99  Esko 
+100  Wrenshall 
+108  Norwood 
+110  Waconia 
+111  Watertown-Mayer 
+112  Chaska 
+113  Walker-Hackensack-Akeley 
+115  Cass Lake-Bena 
+116  Pillager 
+118  Northland Community Schools 
+129  Montevideo 
+138  North Branch 
+139  Rush City 
+146  Barnesville 
+150  Hawley 
+152  Moorhead 
+162  Bagley 
+166  Cook County 
+173  Mountain Lake 
+177  Windom 
+181  Brainerd 
+182  Crosby-Ironton 
+186  Pequot Lakes 
+191  Burnsville 
+192  Farmington 
+194  Lakeville 
+195  Randolph 
+196  Rosemount-Apple Valley-Eagan 
+197  West St. Paul-Mendota Hts.-Eagan 
+199  Inver Grove Heights 
+200  Hastings 
+203  Hayfield 
+204  Kasson-Mantorville 
+206  Alexandria 
+207  Brandon 
+208  Evansville 
+213  Osakis 
+227  Chatfield 
+229  Lanesboro 
+238  Mabel-Canton 
+239  Rushford-Peterson 
+241  Albert Lea 
+242  Alden-Conger 
+252  Cannon Falls 
+253  Goodhue 
+255  Pine Island 
+256  Red Wing 
+261  Ashby 
+264  Herman-Norcross 
+270  Hopkins 
+271  Bloomington 
+272  Eden Prairie 
+273  Edina 
+276  Minnetonka 
+277  Westonka 
+278  Orono 
+279  Osseo 
+280  Richfield 
+281  Robbinsdale 
+282  St. Anthony-New Brighton 
+283  St. Louis Park 
+284  Wayzata 
+286  Brooklyn Center 
+294  Houston 
+297  Spring Grove 
+299  Caledonia 
+300  La Crescent-Hokah 
+306  Laporte 
+308  Nevis 
+309  Park Rapids 
+314  Braham 
+316  Greenway 
+317  Deer River 
+318  Grand Rapids 
+319  Nashwauk-Keewatin 
+330  Heron Lake-Okabena 
+332  Mora 
+333  Ogilvie 
+345  New London-Spicer 
+347  Willmar 
+356  Lancaster 
+361  International Falls 
+362  Littlefork-Big Falls
+3621 Indus 
+363  Northome 
+371  Bellingham 
+378  Dawson-Boyd 
+381  Lake Superior 
+390  Lake of the Woods 
+391  Cleveland 
+392  Le Center 
+394  Montgomery-Lonsdale 
+402  Hendricks 
+403  Ivanhoe 
+404  Lake Benton 
+409  Tyler 
+411  Balaton 
+413  Marshall 
+414  Minneota 
+415  Lynd 
+417  Tracy 
+418  Russell 
+423  Hutchinson 
+424  Lester Prairie 
+432  Mahnomen 
+435  Waubun 
+441  Marshall County Central Schools 
+447  Grygla 
+458  Truman 
+463  Eden Valley-Watkins 
+465  Litchfield 
+466  Dassel-Cokato 
+473  Isle 
+477  Princeton 
+480  Onamia 
+482  Little Falls 
+484  Pierz 
+485  Royalton 
+486  Swanville 
+487  Upsala 
+492  Austin 
+495  Grand Meadow 
+497  Lyle 
+499  Leroy 
+500  Southland 
+505  Fulda 
+507  Nicollet 
+508  St. Peter 
+511  Adrian 
+513  Brewster 
+514  Ellsworth 
+516  Round Lake 
+518  Worthington 
+531  Byron 
+533  Dover-Eyota 
+534  Stewartville 
+535  Rochester 
+542  Battle Lake 
+544  Fergus Falls 
+545  Henning 
+547  Parkers Prairie 
+548  Pelican Rapids 
+549  Perham 
+550  Underwood 
+553  New York Mills 
+561  Goodridge 
+564  Thief River Falls 
+577  Willow River 
+578  Pine City 
+581  Edgerton 
+584  Ruthton 
+592  Climax 
+593  Crookston 
+595  East Grand Forks 
+599  Fertile-Beltrami 
+600  Fisher 
+601  Fosston 
+611  Cyrus 
+621  Mounds View 
+622  North St Paul-Maplewood 
+623  Roseville 
+624  White Bear Lake 
+625  St. Paul 
+627  Red Lake Central-Oklee 
+628  Plummer 
+630  Red Lake Falls 
+635  Milroy 
+640  Wabasso 
+656  Faribault 
+659  Northfield 
+671  Hills-Beaver Creek 
+676  Badger 
+682  Roseau 
+690  Warroad 
+695  Chisholm 
+696  Ely 
+698  Floodwood 
+700  Hermantown 
+701  Hibbing 
+704  Proctor 
+706  Virginia 
+707  Nett Lake 
+709  Duluth 
+712  Mountain Iron-Buhl 
+716  Belle Plaine 
+717  Jordan 
+719  Prior Lake-Savage 
+720  Shakopee 
+721  New Prague Area 
+726  Becker 
+727  Big Lake 
+728  Elk River 
+738  Holdingford 
+740  Melrose 
+741  Paynesville 
+742  St. Cloud 
+743  Sauk Centre 
+745  Albany 
+748  Sartell 
+750  Rocori 
+756  Blooming Prairie 
+761  Owatonna 
+763  Medford 
+768  Hancock 
+769  Morris 
+771  Chokio-Alberta 
+775  Kerkhoven-Murdock-Sunburg 
+777  Benson 
+786  Bertha-Hewitt 
+787  Browerville 
+801  Browns Valley 
+803  Wheaton Area Schools 
+806  Elgin-Millville 
+810  Plainview 
+811  Wabasha-Kellogg 
+813  Lake City 
+818  Verndale 
+820  Sebeka 
+821  Menahga 
+829  Waseca 
+831  Forest Lake 
+832  Mahtomedi 
+833  South Washington County 
+834  Stillwater 
+836  Butterfield 
+837  Madelia 
+840  St. James 
+846  Breckenridge 
+850  Rothsay 
+852  Campbell-Tintah 
+857  Lewiston-Altura 
+858  St. Charles 
+861  Winona Area 
+876  Annandale 
+877  Buffalo 
+879  Delano 
+881  Maple Lake 
+882  Monticello 
+883  Rockford 
+885  St. Michael-Albertville 
+891  Canby 
+911  Cambridge-Isanti 
+912  Milaca 
+914  Ulen-Hitterdal 
+1115  Bug-O-Nay-Ge-Shig
+2071  Lake Crystal-Wellcome Memorial 
+2125  Triton 
+2134  United South Central 
+2135  Maple River 
+2137  Kingsland 
+2142  St. Louis County 
+2143  Waterville-Elysian-Morristown 
+2144  Chisago Lakes 
+2149  Minnewaska 
+2154  Eveleth-Gilbert 
+2155  Wadena-Deer Creek 
+2159  Buffalo Lake-Hector 
+2164  Dilworth-Glyndon-Felton 
+2165  Hinckley-Finlayson 
+2167  Lakeview 
+2168  N.R.H.E.G. 
+2169  Murray County Central 
+2170  Staples-Motley 
+2171  Kittson Central 
+2172  Kenyon-Wanamingo 
+2174  Pine River-Backus 
+2176  Warren-Alvarado-Oslo 
+2180  M.A.C.C.R.A.Y. 
+2184  Luverne 
+2190  Yellow Medicine East 
+2198  Fillmore Central 
+2215  Norman County East 
+2310  Sibley East 
+2311  Clearbrook-Gonvick 
+2342  West Central Area 
+2358  Tri-County-Karlstad 
+2364  Belgrade-Brooten-Elrosa 
+2365  G.F.W. 
+2396  A.C.G.C. 
+2397  Le Sueur-Henderson 
+2448  Martin County West 
+2527  Norman County West 
+2534  Bird Island-Olivia-Lake Lillian 
+2536  Granada Huntley-East Chain 
+2580  East Central 
+2609  Win-E-Mac 
+2683  Greenbush-Middle River 
+2687  Howard Lake-Waverly-Winsted 
+2689  Pipestone Area 
+2711  Mesabi East 
+2752  Fairmont Area Schools 
+2753  Long Prairie-Grey Eagle 
+2754  Cedar Mountain 
+2759  Eagle Valley 
+2805  Zumbrota-Mazeppa 
+2835  Janesville-Waldorf-Pemberton 
+2853  Lac Qui Parle Valley 
+2854  Ada-Borup 
+2856  Stephen-Argyle 
+2859  Glencoe-Silver Lake 
+2860  Blue Earth Area 
+2884  Red Rock Central 
+2886  Glenville-Emmons 
+2887  McLeod West Schools 
+2888  Clinton-Graceville-Beardsley 
+2889  Lake Park-Audubon 
+2890  Renville County West 
+2895  Jackson County Central 
+2897  Redwood Falls Area Schools 
+2898  Westbrook-Walnut Grove Schools 
+2906  Red Lake County Central
+3631  Indus
+4106  Trek North
+4107  Voyagers

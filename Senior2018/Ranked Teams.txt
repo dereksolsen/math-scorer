@@ -1,0 +1,30 @@
+School                         Class |Base Score     |Score   |Place   |Place In Class|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bemidji                            AA|             74|  741415|       1|             1|
+Detroit Lakes                      AA|             69|  691115|       2|             2|
+Park Rapids                         A|             63|  631411|       3|             1|
+Crosby-Ironton                      A|             62|  621212|       4|             2|
+Pelican Rapids                      A|             60|  601213|       5|             3|
+Barnesville                         A|             59|  591310|       6|             4|
+Lake Park-Audubon                   A|             59|  591211|       7|             5|
+Kittson Central                     A|             54|  541409|       8|             6|
+Mahnomen                            A|             53|  531508|       9|             7|
+Menahga                             A|             49|  491107|      10|             8|
+Walker-Hackensack-Akeley            A|             49|  491006|      11|             9|
+Badger                              A|             48|  481108|      12|            10|
+Browerville                         A|             47|  470610|      13|            11|
+Roseau                              A|             47|  471009|      14|            12|
+Greenbush-Middle River              A|             46|  461109|      15|            13|
+Indus                               A|             46|  461108|      16|            14|
+Kelliher                            A|             45|  451107|      17|            15|
+Verndale                            A|             45|  450908|      18|            16|
+Grygla                              A|             44|  441010|      19|            17|
+Waubun                              A|             44|  441207|      20|            18|
+Aitkin                              A|             40|  400907|      21|            19|
+Laporte                             A|             39|  390608|      22|            20|
+Trek North                          A|             39|  390708|      23|            21|
+Climax                              A|             38|  380607|      24|            22|
+Blackduck                           A|             37|  370307|      25|            23|
+Cass Lake-Bena                      A|             36|  361008|      26|            24|
+Bagley                              A|             30|  300705|      27|            25|
+Tri-County-Karlstad                 A|             30|  301006|      28|            26|

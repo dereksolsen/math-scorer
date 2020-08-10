@@ -1,0 +1,22 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Greenbush-Middle River         Team Base Count: 65            Team Score: 651621 |  12   |
+-----------------------------------------------------------------------------------------|
+Greenbush-Middle River         ELLA            KOEBERNICK           23    230709 |  36   |
+Greenbush-Middle River         DYLAN           HEGGEDAL             23    230407 |  45   |
+Greenbush-Middle River         SARAH           STANELLE             19    190505 | 102   |
+Greenbush-Middle River         GAGE            CREEKMORE            17    170403 | 144   |
+Greenbush-Middle River         JAMEE           FOSS                 17    170304 | 150   |
+Greenbush-Middle River         KALLY           WOJCIECHOWSKI        17    170203 | 152   |
+Greenbush-Middle River         ANDREW          DOSAL                16    160305 | 164   |
+Greenbush-Middle River         JACOB           BERGSNEV             15    150403 | 180   |
+Greenbush-Middle River         LEXIE           BENKE                15    150304 | 184   |
+Greenbush-Middle River         PIPER           SONDREAL             15    150204 | 192   |
+Greenbush-Middle River         BRYTON          WAPPULA              14    140302 | 209   |
+Greenbush-Middle River         ZACH            EVANS                13    130303 | 220   |
+Greenbush-Middle River         AGRACIA         MELCHER              12    120502 | 225   |
+Greenbush-Middle River         MICHAEL         DIAZ                 11    110301 | 248   |
+Greenbush-Middle River         LILIBETH        LORASHNEUENSCHWANDE  10    100301 | 261   |
+Greenbush-Middle River         ALYSSA          WAAGE                10    100202 | 265   |
+Greenbush-Middle River         FAITH           NOVACEK              9     90400  | 271   |
+Greenbush-Middle River         AUBRE           BERG                 8     80301  | 287   |

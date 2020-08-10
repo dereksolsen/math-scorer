@@ -1,0 +1,12 @@
+School                         First Name      Last Name    Base Count    Score  | Place |
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+Grygla                         Team Base Count: 36            Team Score: 360807 |  25   |
+-----------------------------------------------------------------------------------------|
+Grygla                         JARED           HAACK                14    140203 | 147   |
+Grygla                         LEVI            KIESOW               11    110303 | 224   |
+Grygla                         ELI             SUNDBERG             11    110301 | 228   |
+Grygla                         JAKE            OLSON                11    110203 | 236   |
+Grygla                         BRIGETTE        WATNE                10    100302 | 253   |
+Grygla                         MADISON         CULLEN               8     80201  | 305   |
+Grygla                         CHLOE           KUZNIA               7     70102  | 322   |
+Grygla                         ELLIE           SABOURIN             5     50100  | 332   |
